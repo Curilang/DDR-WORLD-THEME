@@ -11,7 +11,9 @@
 # CURRENT SUPPORTED STEPMANIA BUILDS
 
 • [5.1new](https://github.com/stepmania/stepmania) / [5.1new "fixes" (recommended build)](https://github.com/SchneiderAFX/stepmania-fixes)
+
 • [ITGMania](https://www.itgmania.com/)
+
 • [OutFox 0.4.19 LTS](https://projectoutfox.com/releases/0.4.19)
 
 # BUILDER
