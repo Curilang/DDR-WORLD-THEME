@@ -1,0 +1,2 @@
+// Rewritten by the theme when it is needed: the ARTIST sort with the language order (Scripts/08 SongOrder.lua).
+// It ships with the theme so that engines that only accept preferred lists found in the theme's Other folder can find it.

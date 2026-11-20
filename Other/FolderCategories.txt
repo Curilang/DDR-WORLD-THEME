@@ -1,0 +1,116 @@
+// ============================================================================
+// FOLDERS (the "folder screen", see Scripts/08 Filter.lua and BGAnimations/ScreenSortList overlay/folder.lua)
+//
+// The folders FIRST STEP and ALL MUSIC need no list: FIRST STEP is every song of the normal packs (the ones without an
+// itg.ini file) that has a BEGINNER chart, ALL MUSIC is every song of the normal packs.
+//
+// The folders below are filled from this file. Under each "---FOLDER NAME" heading you can write:
+//
+//     @word           a song is in the folder when its title, subtitle, artist or genre has this WORD
+//                     (a whole word, in any case: "@tag" finds "TAG underground" but not "stage")
+//     Group/Folder    one song, the way the song folder is named on disk:  16 - DDR A/Bad Apple!! feat. nomico
+//
+// A song can be in several folders. Lines that start with // or # are comments.
+// This file is a FIRST DRAFT made from artist names: fix it freely (nothing else has to change).
+// The folder names are fixed: POP MUSIC, VIRTUAL POP, ANIME & GAME, TOUHOU, FOR MUSIC GAMERS.
+// ============================================================================
+
+---POP MUSIC
+// songs whose genre says pop, and licensed pop artists
+@pop
+@k-pop
+@jena rose
+@dormir
+@harmony machine
+@qrispy joybox
+@c-show
+@scotty d.
+@tommie sunshine
+@porter robinson
+@jakazid
+
+---VIRTUAL POP
+// songs sung by virtual singers (VOCALOID and similar) and their producers
+@vocaloid
+@hatsune
+@miku
+@初音ミク
+@ボカロ
+@deco*27
+@ピノキオピー
+@cosmo＠暴走p
+@kanaria
+@40mp
+@wowaka
+@doriko
+@livetune
+@kikuo
+@last note.
+@relect
+@日向美ビタースイーツ♪
+@音戯探偵ひなビタ♫
+@ひなビタ
+
+---ANIME & GAME
+// anime and game songs
+@anime
+@アニメ
+@亜咲花
+@中島由貴
+@日本少年
+@工藤吉三
+@ベイシスケイプ
+@ときめきアイドル project
+@dkc crew
+
+---TOUHOU
+// TOUHOU Project arrangements (arrangement circles and character names)
+@touhou
+@東方
+@iosys
+@cool&create
+@ビートまりお
+@alstroemeria
+@demetori
+@暁records
+@bad apple
+@cirno
+@marisa
+@reimu
+@erin
+@sakuya
+@flandre
+@yuyuko
+@patchouli
+@koishi
+@satori
+@mokou
+@arm
+@夜叉姫神楽
+@猫叉master
+@猫叉master+
+
+---FOR MUSIC GAMERS
+// songs from OTHER music games (composers of beatmania IIDX, SOUND VOLTEX, pop'n music... and other game series).
+// (the songs that were made for DDR itself are not here: they are in ALL MUSIC and the other folders)
+@dj taka
+@taka
+@dj yoshitaka
+@dj totto
+@dj shimamura
+@dj mass mad izm*
+@sota f.
+@sota fujimori
+@s-c-u
+@hommarju
+@かめりあ
+@blacky
+@akira yamaoka
+@toby fox
+@undertale
+@ke!ju
+@syunn
+@yvya
+@sky_delta
+@taq
+@2mb

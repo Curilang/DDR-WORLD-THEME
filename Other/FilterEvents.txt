@@ -1,0 +1,65 @@
+// EVENT values of the FILTER menu (Scripts/08 Filter.lua).
+// A simfile does not say which event a song belongs to, so the events are defined here.
+//
+// Format: a line "---EVENT NAME" starts an event; the lines after it are the songs of that event, written
+// "Group folder/Song folder" (the same as in "SongManager PreferredSongs.txt"). Blank lines and lines that
+// start with // or # are ignored. A song can be in several events.
+//
+// Example (remove the // to use it):
+//---SUMMER CAMPAIGN
+//21 - DDR WORLD/Akatsuki
+//21 - DDR WORLD/Amabie
+
+---WORLD LEAGUE
+
+21 - DDR WORLD/Time to HYPERDRIVE
+21 - DDR WORLD/Is this dance a Hakken
+21 - DDR WORLD/access super [hyper] focus
+21 - DDR WORLD/STOMP!!
+21 - DDR WORLD/Many mania--
+21 - DDR WORLD/S.O.D
+21 - DDR WORLD/Florence
+21 - DDR WORLD/BRAIN-HEART
+21 - DDR WORLD/Be Happy Next 2 You
+21 - DDR WORLD/Hit Show Heroes
+21 - DDR WORLD/Polka dot dance girl
+21 - DDR WORLD/PARANOiA STOMP, STOMP, STOMP
+21 - DDR WORLD/Easy Peasy Squeezy
+21 - DDR WORLD/8ISMUTH OVERDRIV3
+
+---EXTRA SAVIOR WORLD
+
+21 - DDR WORLD/SUPER HEROINE!!
+21 - DDR WORLD/Zanzou ni tsunagareta tsuioku no HIDEAWAY
+21 - DDR WORLD/Danmaku shinkou
+21 - DDR WORLD/Amazing Bomberman
+21 - DDR WORLD/Love You
+21 - DDR WORLD/Dopamine (STARDOM Remix)
+21 - DDR WORLD/Ryoushi no umi no Lindwurm (STARDOM Remix)
+21 - DDR WORLD/MODEL FT2 Miracle Version
+21 - DDR WORLD/Hanenaki shoujo uta
+21 - DDR WORLD/Nante super
+21 - DDR WORLD/Nazotoki queen!
+21 - DDR WORLD/Specter chaser
+21 - DDR WORLD/Tick-tack2 tick2 pa
+21 - DDR WORLD/Recipe no riddle
+
+---GALAXY BRAVE
+
+21 - DDR WORLD/Meteor
+21 - DDR WORLD/Blizzard of Arrows
+21 - DDR WORLD/Eira
+21 - DDR WORLD/Komainu Adventure!
+21 - DDR WORLD/Thunderstorm
+21 - DDR WORLD/Saiph
+21 - DDR WORLD/Meikyuu no rondo
+21 - DDR WORLD/Hou (Five Flares Mix)
+21 - DDR WORLD/New Millennium Pt.2
+21 - DDR WORLD/Roll the Dice
+21 - DDR WORLD/UNKNOWNZ
+
+21 - DDR WORLD/Proof of the existence
+21 - DDR WORLD/Haku
+21 - DDR WORLD/Lisa-RICCIA
+21 - DDR WORLD/miserable life and worthless thoughts
+21 - DDR WORLD/Steps for Victory (U1 Heavy Metal Edition)
