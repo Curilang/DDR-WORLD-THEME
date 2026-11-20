@@ -10,7 +10,7 @@
 
 # CURRENT SUPPORTED STEPMANIA BUILDS
 
-• [5.1new](https://github.com/stepmania/stepmania) / [5.1new "fixes" (recommended build)](https://github.com/SchneiderAFX/stepmania-fixes)
+• [StepMania 5.1new](https://github.com/stepmania/stepmania) / [StepMania 5.1new "fixes" (recommended build)](https://github.com/SchneiderAFX/stepmania-fixes)
 
 • [ITGMania](https://www.itgmania.com/)
 
