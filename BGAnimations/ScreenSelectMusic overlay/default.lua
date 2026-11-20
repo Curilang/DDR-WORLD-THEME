@@ -287,12 +287,13 @@ t[#t+1] = loadfile(THEME:GetPathB("ScreenSelectMusic","overlay/LevelSort.lua"))(
 -- wheel stays hidden until it starts, which also hides the song ordering
 t[#t+1] = loadfile(THEME:GetPathB("ScreenSelectMusic","overlay/WheelIntro.lua"))(backToWheel)
 
+t[#t+1] = loadfile(THEME:GetPathB("ScreenSelectMusic","overlay/StageDisplay"))()..{
+	OnCommand=function(s) s:diffusealpha(1) end,
+};
+
 t[#t+1] = loadfile(THEME:GetPathB("ScreenSelectMusic","overlay/Info"))()..{
 	FilterOpenedMessageCommand=function(s) s:visible(false) end,
 	FilterClosedMessageCommand=function(s) s:visible(true) end,
-};
-t[#t+1] = loadfile(THEME:GetPathB("ScreenSelectMusic","overlay/StageDisplay"))()..{
-	OnCommand=function(s) s:diffusealpha(1) end,
 };
 -- the menu timer, drawn with the original's digits (red from 10); see Timer/default.lua
 t[#t+1] = DDRWORLD_MenuTimer("ScreenSelectMusic", MenuTimerPositions.SelectMusic.x, MenuTimerPositions.SelectMusic.y);

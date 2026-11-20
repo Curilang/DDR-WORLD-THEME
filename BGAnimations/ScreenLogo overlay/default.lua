@@ -21,7 +21,7 @@ return Def.ActorFrame {
 		InitCommand=function(s) s:diffuse(Color("White")):FullScreen() end,
 		OnCommand=function(s) 
 			if IsLogo() then
-				s:linear(0.5):diffusealpha(0):sleep(5):linear(0.25):diffusealpha(1) 
+				s:linear(0.5):diffusealpha(0):sleep(7):linear(0.25):diffusealpha(1) 
 			elseif IsTitleMenu() or IsTitleJoin() then 
 				s:linear(0.5):diffusealpha(0)
 			end
