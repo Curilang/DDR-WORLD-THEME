@@ -212,7 +212,7 @@ local GENRES = {
 	{ id = "TOUHOU", label = "TOUHOU", folder = "TOUHOU", words = { "touhou" } },
 	{ id = "VARIETY", label = "VARIETY", words = { "variety" } },
 	{ id = "HINABITA", label = Utf8(0x3072, 0x306A, 0x30D3, 0x30BF, 0x266A, 0x20, 0x26, 0x20, 0x30D0, 0x30F3, 0x3081, 0x3057, 0x266A), jp = true,
-		folder = "HINABITA", words = { "hinabita" } },
+		folder = "HINABITA", words = { Utf8(0x3072, 0x306A, 0x30D3, 0x30BF), Utf8(0x30D0, 0x30F3, 0x3081, 0x3057), "hinabita" }, anywhere = true,},
 	{ id = "AUDITION", label = "AUDITION", folder = "AUDITION", words = { "audition" } },
 }
 
