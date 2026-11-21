@@ -187,6 +187,6 @@ else
 end;
 
 return Def.ActorFrame{
-	InitCommand=function(s) s:visible(ThemePrefs.Get("TargetScore") == "On" and true or false) end,
+	InitCommand=function(s) s:visible(ThemePrefs.Get("TargetScore") == "ON" and true or false) end,
 	t;
 };
