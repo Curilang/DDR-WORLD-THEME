@@ -1,5 +1,5 @@
 -- ============================================================================
--- LEVEL SORT (as in the arcade)
+-- LEVEL SORT (as in the arcade).
 -- ============================================================================
 -- The engine's level sorts (SortOrder_<Difficulty>Meter) only look at ONE difficulty: the one the player had
 -- selected. The arcade sorts by level whatever the difficulty is: a song is listed in LEVEL 5, LEVEL 9 and
