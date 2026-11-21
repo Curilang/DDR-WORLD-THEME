@@ -17,6 +17,164 @@
 
 ---POP MUSIC
 // songs whose genre says pop, and licensed pop artists
+//DDR WORLD - Licensed Songs
+@About Damn Time
+@Akatsuki
+@Aoba no ashioto
+@Better When I'm Dancin'
+@Blinding Lights
+@Buta thunder
+@Cheerleader
+@Ex-Otogibanashi
+@Explore
+@Firework
+@Ga-ga-ga-galaxy!
+@Gimmick gimmick entertainment
+@Good Life
+@Hihou! Wai! Neet!
+@Hito mania
+@Ice cream magic
+@Igaku
+@Kakugoseyo! Enternmeen ~yori mi no kiriuri jiboujiki ban~
+@Knock Yourself Out XD
+@Kyoufuu all back
+@Kyu-kurarin
+@Levitating
+@Liar dancer
+@Mesmerizer
+@Miles on It
+@Neoki yashi no ki
+@One Kiss
+@Override
+@Rabbit hole
+@Rain On Me
+@Shooting Star
+@Shukusei!! Loli-kami requiem
+@Sign wa B -New Arrange Ver.-
+@Silent Flame,Never Fade
+@Somedays
+@Stars In The Sky
+@Tetoris
+@Tokumei M
+@Vampire
+@Warera kanzen muteki no idol!!
+@Yumeiro wonder
+
+//DDR WORLD - Licensed Covers
+@Aka to ao no rampage (cover)
+@Boku no hikouki (cover)
+@Casino fire Kotomi-chan (cover)
+@Dadadadadadadadadada (NIJISANJI Dance-bu ver.)
+@Din Don Dan (NIJISANJI Dance-bu ver.)
+@Homesick Pt.2&3 (cover)
+@Kawaikute gomen
+@murmur twins (guitar pop ver.)
+@Remember remember (cover)
+@Show
+@Trauma saimin shoujo Satori!
+@WOW WAR TONIGHT ~tokiniha okoseyo movement
+@Yuusha
+@Zattou, bokura no machi
+
+//DDR A3 - Licensed Songs
+@Ayumi Magical Showtime
+@Battle Against a True Hero
+@Death by Glamour
+@Eon Break
+@Finale
+@KING
+@Look at the Sky
+@MEGALOVANIA
+@Musician
+@Poppin' candy fever!
+@Positive dance time
+@Pure Rude
+@Something Comforting
+@Yoidore shirazu
+
+//DDR A3 - Licensed Covers
+@Ichizu
+@Mixed nuts
+@SOUVENIR
+
+//DDR A20 PLUS - Licensed Songs
+@Haru wo tsugeru
+@I believe what you said
+@Koi
+@Nadame sukashi Negotiation
+@Realize
+@Roki (Megumi Ogata)
+@S'il vous president
+@Saika
+@Seize The Day
+@SHINY DAYS
+@Shisouhan
+@Skyclad no kansokusha
+@Telecaster B-boy
+@Zassou tamashii namen na yo!
+
+//DDR A20 - Licensed Songs
+@Alone
+@Clarity
+@Dokusenyoku
+@I'm an Albatraoz
+@Kusare gedou to chocolate
+@Liar dance
+@Mousou kanshou daishou renmei
+@New Rules
+@No Tears Left to Cry
+@Party Rock Anthem
+@Play Hard
+@Reiwa
+@Something Just Like This (Alesso Remix)
+@Sukina koto dakede ii desu
+@The Light
+@Tiger rampage
+
+//DDR A20 - Legend License Remixes-Covers
+@BUTTERFLY (20th Anniversary Mix)
+@CARTOON HEROES (20th Anniversary Mix)
+@HAVE YOU NEVER BEEN MELLOW (20th Anniversary Mix)
+@LONG TRAIN RUNNIN' (20th Anniversary Mix)
+@SKY HIGH (20th Anniversary Mix)
+
+//DDR A - Licensed Songs
+@39
+@Ai kotoba
+@Alien Alien
+@Ama no jyaku
+@Arifureta sekai seifuku
+@Believe
+@Break Free
+@Buraikku jikorizer
+@Determination
+@EDM jumpers
+@Happy
+@Happy synthesizer
+@Hatsune Miku no shoushitsu
+@Hello, planet
+@Hillbilly Shoes
+@Houkago stride
+@I Want You To Know
+@Kunshi ayauku mo chikou yore
+@Lost one no goukoku
+@More One Night
+@Mousou zei
+@Nou shou sakuretsu girl
+@Onegai darling
+@Rinnetensei
+@Rokuchounen to ichiya monogatari
+@Role-playing game
+@Roshin yuukai
+@Shiawase ni nareru kakushi command ga arurashii
+@Shut Up and Dance
+@SLoWMoTIoN
+@The Night Away (MK Remix)
+@Time Of Our Lives
+@Wake Me Up
+@Yi-er fanclub
+@Youkoso Japari Park e
+
 @pop
 @k-pop
 @jena rose
@@ -65,6 +223,67 @@
 
 ---TOUHOU
 // TOUHOU Project arrangements (arrangement circles and character names)
+--DDR World - Touhou Project (東方Project)
+@4NT1 D34D
+@Awa de kono yo wo
+@Cirno no perfect sansuu gakuen
+@Deadly Dolly Dance
+@ILL-STARRED Diver
+@Matsuyoi nightbug
+@Nostalgic Blood of the Strife
+@Princess K
+@Renkei epilogue
+@San yousei SAY YA!!!
+@SkyDrive! (HASEKO EUROBEAT MIX)
+@Tengu no otoshi bumi (feat. ytr)
+@Touhouyouyoumu ULTIMATE MEDLEY
+@Ultimate taste
+
+--DDR World - BEMANI×Touhou Project
+@Danmaku shinkou
+@Heisokuteki flation
+@SUPER HEROINE!!
+@Tsuki ni murakumo hana ni kaze
+@Zanzou ni tsunagareta tsuioku no HIDEAWAY
+
+// DDR A3 - Touhou Project (東方Project)
+@HANIPAGANDA
+@INFINITE WORLD
+@Kanbu de tomatte sugu tokeru ~ kyouki no Udongein
+@Kill The Night
+@Koi no hyoketsu otenba yukemuri Cirno onsen
+@LOVE EAST
+@Respec fujin
+@Saisoku saikou shutter girl
+@Scarlet keisatsu no ghetto patrol 24 ji
+@Shuwa spa daisakusen
+@Trance dance anarcky
+@Usatei
+@WARNING WARNING WARNING
+
+// DDR A20 PLUS - Touhou Project (東方Project)
+@Crazy Hot
+@Feidie
+@GUILTY DIAMONDS
+@No Life Queen [DJ Command Remix]
+@Together Going My Way
+
+// DDR A20 - Touhou Project (東方Project)
+@Night of Knights (Ryu Remix)
+@Saishuu kichiku imouto Flandre-S
+
+// DDR A - Touhou Project (東方Project)
+@Bad Apple!! feat. nomico
+@Cirno no perfect sansuu kyoushitsu
+@Cirno no perfect sansuu kyoushitsu (EDM REMIX)
+@Grip & Break down !!
+@Help me, ERINNNNNN!!
+@Himawari sunset
+@Iro wa nioedo chirinuru wo
+@Marisa wa taihen na mono wo nusunde ikimashita
+@Night of knights
+@Plain Asia -PHQ remix-
+@Sennen no kotowari
 @touhou
 @東方
 @iosys
@@ -114,3 +333,110 @@
 @sky_delta
 @taq
 @2mb
+
+---HINABITA & BANMESHI
+//ひなビタ♪&バンめし♪曲
+// DDR WORLD - HinaBitter♪ (ひなビタ♪)
+@Catharsis no tsuki
+@Ima koko! Kono shunkan
+@Kareinaru! Otogi tantei HinaBitter
+@Murasaki guruma
+@Nante super
+@Nazotoki queen!
+@Recipe no riddle
+@Romancing escape
+@Specter chaser
+@Tick-tack2 tick2 pa
+
+// DDR A3 - HinaBitter♪ (ひなビタ♪)
+@Chikuwa parfait da yo CKP (Yvya Remix)
+@Confeito concerto
+@Finally Dive
+@Hashire melonpan
+@Meumeupettantan!! (ZAQUVA Remix)
+@Nanairo light
+@Polaris no uta
+@Senkyakubanrai moumantai!
+@Tokai seifuku Girls
+
+// DDR A20 PLUS - BandMeshi♪ (バンめし♪)
+@Alice side castling
+@Hana wa oritashi kozue wa takashi
+@Hangyaku no disparate
+@Innocent bible
+@Khorosho! Onigiri circus dan
+@Otogibanashi ni makugire wo
+@Red Cape Theorem
+@ROOM
+@Sakasama Cinderella parade
+@Shijou no laturia
+@Tsuioku no aria
+@Usotsuki yokochou wa amemoyou
+
+// DDR A20 - HinaBitter♪ (ひなビタ♪)
+@Baby step
+@Haunted maid lunch
+@Hikari eureka
+@Kakumei passionate
+@Netsujou no zapadeado
+@Sweets wa tomaranai
+
+// DDR A - HinaBitter♪ (ひなビタ♪)
+@Exciting!! Mo-cha-cha
+@Kuranogawa ondo
+@Kurokami midareshi shura to narite ~Rin edition~
+@Luminous days
+@Mahou no tamago ~Cocona ELECTRO POP edition~
+@Ronron e rairairai!
+@Sayonara trip ~Natsuhi EDM edition~
+
+---CREATOR AUDITION
+//DDR WORLDの楽曲クリエイターオーディション
+@Ai-shi AI sare
+@Arcadia
+@Autosummer
+@Bad youth awake
+@BUCHiAGE matsuri DANCE
+@Burstix Comet
+@Can't Stop Running!!
+@Collapse of the Sanctuary
+@Dance and Death
+@Dance wiz the Rhythm
+@DanRevoAthlon
+@Decryption
+@DENGENKEN
+@Dense Flyer
+@Don't Stop The HYPERCORE
+@Dozen Flower
+@eyesight
+@First Action
+@Fizzing Steps
+@fluctus
+@Footnotes on BPM
+@Funky Flux Fusion
+@Gravity Collapse
+@Hajimari no eyes ft. Rintaru
+@Hakujitsu to gengetsu
+@Harukaze restart!
+@Heavy Rain
+@HYPER OVERR DANCEFLOORRR
+@HyperNOAH
+@I'll Be With You
+@Kyokuchi daishougeki
+@Make Mi Make Mi
+@MonstaFesta
+@MYSTIC CUBE
+@New Nostalgy
+@No More Love
+@Odyssey
+@Ohisashi chuukagai!
+@Origin Pulsation
+@Robot Footwork
+@Roche Limit
+@Shiawase no mahou wa tokenai
+@Sweetin' Fruity
+@The 88's Instigation
+@The Ashes of Boreas
+@Tomoshibi
+@TURNING DOWN
+@WONDER COASTER
