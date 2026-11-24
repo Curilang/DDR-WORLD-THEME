@@ -690,11 +690,9 @@ do
 end
 
 -- the name of a pack without the number of its folder ("21 - DDR WORLD" -> "DDR WORLD"), or the one of its group.ini
+-- (the same name the rest of the theme shows for the group: group.ini, then SongAttributes.GetGroupName, then the folder name)
 local function PackName(group)
-	local custom = Filter.GroupIniName(group)
-	if custom then return custom end
-	local name = string.gsub(group or "", "^%d+%s*%-%s*", "")
-	return name
+	return Filter.GroupDisplayName(group)
 end
 
 -- The values of VERSION, in the arcade's order and format: the three group buttons (GOLD / WHITE / CLASSIC), then WORLD,
