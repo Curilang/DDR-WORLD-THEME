@@ -25,8 +25,8 @@ return Def.ActorFrame{
 		OnCommand=function(s) s:linear(0.05):zoom(0.28) end,
 	};
 	Def.Sprite{
-		Texture=THEME:GetPathG("","_shared/pepsi"),
-		InitCommand=function(s) s:Center():zoom(0):zoom(0) end,
+		Texture=THEME:GetPathG("","_shared/deco"),
+		InitCommand=function(s) s:Center():zoom(0):zoom(0):pause():setstate(EasterEgg() and 1 or 0) end,
 		OnCommand=function(s) s:linear(0.05):zoom(0.667) end,
 	};
 	Def.Quad{
@@ -107,7 +107,7 @@ return Def.ActorFrame{
 	};
 	Def.Sprite{
 		Texture=THEME:GetPathG("","_shared/logo_white"),
-		InitCommand=function(s) s:zoom(0.667):Center():diffusealpha(0) end,
+		InitCommand=function(s) s:zoom(0.667):Center():diffusealpha(0):pause():setstate(EasterEgg() and 2 or GetProjectName()) end,
 		OnCommand=function(s) s:sleep(1.5):linear(0.2):diffusealpha(1) end,
 	},
 	Def.Sprite{
@@ -130,5 +130,4 @@ return Def.ActorFrame{
 		InitCommand=function(s) s:zoom(0.664):xy(_screen.l+53,_screen.cy):diffusealpha(0) end,
 		OnCommand=function(s) s:sleep(1.45):diffusealpha(1):addx(-100):addy(-10):linear(0.25):addx(100):addy(10) end,
 	},
-	
 };

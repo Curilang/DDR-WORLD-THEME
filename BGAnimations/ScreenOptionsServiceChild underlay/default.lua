@@ -1,4 +1,4 @@
-local serv = IsOptionService() or IsOptionManageProfiles() or IsPremiumCustomizer()
+local serv = IsOptionService() or IsOptionManageProfiles()
 
 return Def.ActorFrame {
 	Def.Sprite{

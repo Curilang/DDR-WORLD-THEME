@@ -200,7 +200,7 @@ local af = Def.ActorFrame{
         idx, lastShown = 1, 0
         active = true
         self:SetUpdateFunction(Update)
-        self:sleep(0.35):decelerate(0.2):visible(true):diffusealpha(1)
+        self:sleep(0.37):decelerate(0.2):visible(true):diffusealpha(1)
     end,
     OffCommand=function(self)
         if mode == "Off" then return end

@@ -125,6 +125,16 @@ local Prefs = {
 		Choices = { "OFF" , "ON" },
 		Values = { "OFF" , "ON" },
 	},
+	ThemeName = {
+		Default = "PROJECT WORLD",
+		Choices = { "DDR WORLD" , "PROJECT WORLD" },
+		Values = { "DDR WORLD" , "PROJECT WORLD" },
+	},
+	EasterEgg = {
+		Default = "DON'T DO IT",
+		Choices = { "DO IT" , "DON'T DO IT" },
+		Values = { "DO IT" , "DON'T DO IT" },
+	},
 	
 };
 
@@ -149,6 +159,22 @@ function GetCurrentLanguage()
 		return 2
 	else
 		return 0
+	end
+end
+
+function GetProjectName()
+	if ThemePrefs.Get("ThemeName") == "DDR WORLD" then
+		return 1
+	else
+		return 0
+	end
+end
+
+function EasterEgg()
+	if ThemePrefs.Get("EasterEgg") == "DO IT" then
+		return true
+	else
+		return false
 	end
 end
 	

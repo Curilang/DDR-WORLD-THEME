@@ -18,8 +18,8 @@ t[#t+1] = Def.ActorFrame {
 		InitCommand=function(s) s:xy(1,60) end,
 	};
 	Def.Sprite{
-		Texture=THEME:GetPathG("","_shared/ddr"),
-		InitCommand=function(s) s:xy(-496,58) end,
+		Texture=THEME:GetPathG("","_shared/tex"),
+		InitCommand=function(s) s:xy(-496,58):pause():setstate(GetProjectName()) end,
 	};
 };  
 

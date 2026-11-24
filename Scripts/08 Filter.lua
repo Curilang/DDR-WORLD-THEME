@@ -39,8 +39,8 @@ local stamp = 0         -- changes when scores may have changed (a song was play
 
 local VERSIONS = {
 	{ id = "GOLD", label = "GROUP GOLD", members = { "WORLD", "A3", "A20" } },
-	{ id = "WHITE", label = "GROUP WHITE", members = { "A", "2013", "X" } },
-	{ id = "CLASSIC", label = "GROUP CLASSIC", members = { "SN", "MAX", "1ST" } },
+	{ id = "WHITE", label = "GROUP WHITE", members = { "A", "2013" } },
+	{ id = "CLASSIC", label = "GROUP CLASSIC", members = { "X", "SN", "MAX", "1ST" } },
 	{ id = "WORLD", label = "WORLD" },
 	{ id = "A3", label = "A3" },
 	{ id = "A20", label = "A20 - A20 PLUS" },

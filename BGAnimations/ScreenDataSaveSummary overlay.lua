@@ -34,8 +34,8 @@ end
 
 x[#x+1] = Def.ActorFrame {
 	Def.Sprite {
-		Texture=THEME:GetPathG("","_shared/ddr"),
-		InitCommand=function(s) s:zoom(0.667):xy(_screen.l+96,_screen.t+39) end,
+		Texture=THEME:GetPathG("","_shared/tex"),
+		InitCommand=function(s) s:zoom(0.667):xy(_screen.l+96,_screen.t+39):pause():setstate(GetProjectName()) end,
 		OffCommand=function(s) s:linear(0.2):diffusealpha(0) end,
 	};
 	LoadActor(THEME:GetPathS("WORLD/Profile", "in"))..{

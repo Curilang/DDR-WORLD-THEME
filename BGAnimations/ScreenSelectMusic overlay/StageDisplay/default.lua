@@ -42,8 +42,8 @@ local DDR_Y_FOLDER = SCREEN_TOP+42.5
 
 return Def.ActorFrame {
 	Def.Sprite{
-		Texture="DDR",
-		InitCommand=function(s) s:zoom(0.667):xy(SCREEN_LEFT+65,_screen.t+25) end,
+		Texture="TEX",
+		InitCommand=function(s) s:zoom(0.667):xy(SCREEN_LEFT+65,_screen.t+25):pause():setstate(GetProjectName()) end,
 	};
 	Def.Sprite{
 		Texture="FOLDER",

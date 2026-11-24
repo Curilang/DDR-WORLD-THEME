@@ -7,11 +7,11 @@ return Def.ActorFrame{
 			GainFocusCommand=function(s) s:setstate(1) end,
 			LoseFocusCommand=function(s) s:setstate(0) end,
 		},
-		Def.Sprite{
-			Texture=THEME:GetPathG("","_shared/line"),
-			InitCommand=function(s) s:y(30):setsize(238,8):texcoordvelocity(-0.15,0) end,
-			GainFocusCommand=function(s) s:visible(true) end,
-			LoseFocusCommand=function(s) s:visible(false) end,
+		StripeLine{
+			Name = "Line", 
+			w = 238, h = 8, y = 30, visible = false,
+			GainFocusCommand = function(s) s:visible(true) end,
+			LoseFocusCommand = function(s) s:visible(false) end,
 		},
 		Def.BitmapText{
 			Font="_swis721 blk bt 28px",

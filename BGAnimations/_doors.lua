@@ -51,7 +51,7 @@ return Def.ActorFrame{
 	},
 	Def.Sprite{
 		Texture=THEME:GetPathG("","_shared/logo_white"),
-		InitCommand=function(s) s:zoom(0.867):Center():diffusealpha(0) end,
+		InitCommand=function(s) s:zoom(0.867):Center():diffusealpha(0):pause():setstate(EasterEgg() and 2 or GetProjectName()) end,
 		CloseCommand=function(s) s:sleep(0.2):linear(0.2):zoom(0.667):diffusealpha(1) end,
 		OpenCommand=function(s) s:diffusealpha(1):zoom(0.667):sleep(0.2):linear(0.2):diffusealpha(0) end,
 		StandCommand=function(s) s:zoom(0.667):diffusealpha(1) end,

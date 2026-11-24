@@ -9,34 +9,34 @@ t[#t+1] = Def.Sound{
 
 t[#t+1] = Def.ActorFrame{
 	Def.Sprite{
-			Texture=THEME:GetPathG("","_shared/ddr"),
-			InitCommand=function(s) s:zoom(0.667):xy(_screen.l+96,_screen.t+39) end,
-			OffCommand=function(s) s:linear(0.2):zoomy(0) end,
-		},
-		Def.Sprite{
-			Texture="header",
-			InitCommand=function(s) s:zoom(0.667):xy(_screen.cx,_screen.t+68) end,
-			OffCommand=function(s) s:linear(0.2):zoomy(0) end,
-		},
-		Def.Sprite{
-			Texture="text",
-			InitCommand=function(s) s:zoom(0.667):xy(_screen.cx-34,_screen.t+78) 
-				s:pause():setstate(GetCurrentLanguage())
-			end,
-			OffCommand=function(s) s:linear(0.2):zoomy(0) end,
-		},
-		Def.Sprite{
-			Texture="base",
-			InitCommand=function(s) s:zoom(0.667):xy(_screen.r+200,_screen.b-70) end,
-			OnCommand=function(s) s:linear(0.2):x(_screen.r-173) end,
-			OffCommand=function(s) s:linear(0.2):x(_screen.r+200) end,
-		},
-		Def.Sprite{
-			Texture="base",
-			InitCommand=function(s) s:zoom(0.667):xy(_screen.l-200,_screen.b-70) end,
-			OnCommand=function(s) s:linear(0.2):x(_screen.l+173) end,
-			OffCommand=function(s) s:linear(0.2):x(_screen.l-200) end,
-		},
+		Texture=THEME:GetPathG("","_shared/tex"),
+		InitCommand=function(s) s:zoom(0.667):xy(_screen.l+96,_screen.t+39):pause():setstate(GetProjectName()) end,
+		OffCommand=function(s) s:linear(0.2):zoomy(0) end,
+	},
+	Def.Sprite{
+		Texture="header",
+		InitCommand=function(s) s:zoom(0.667):xy(_screen.cx,_screen.t+68) end,
+		OffCommand=function(s) s:linear(0.2):zoomy(0) end,
+	},
+	Def.Sprite{
+		Texture="text",
+		InitCommand=function(s) s:zoom(0.667):xy(_screen.cx-34,_screen.t+78) 
+			s:pause():setstate(GetCurrentLanguage())
+		end,
+		OffCommand=function(s) s:linear(0.2):zoomy(0) end,
+	},
+	Def.Sprite{
+		Texture="base",
+		InitCommand=function(s) s:zoom(0.667):xy(_screen.r+200,_screen.b-70) end,
+		OnCommand=function(s) s:linear(0.2):x(_screen.r-173) end,
+		OffCommand=function(s) s:linear(0.2):x(_screen.r+200) end,
+	},
+	Def.Sprite{
+		Texture="base",
+		InitCommand=function(s) s:zoom(0.667):xy(_screen.l-200,_screen.b-70) end,
+		OnCommand=function(s) s:linear(0.2):x(_screen.l+173) end,
+		OffCommand=function(s) s:linear(0.2):x(_screen.l-200) end,
+	},
 };
 
 t[#t+1] = Def.Actor{

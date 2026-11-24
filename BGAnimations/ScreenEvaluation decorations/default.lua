@@ -8,8 +8,8 @@ local FinalStage = PREFSMAN:GetPreference("SongsPerPlay")
 t[#t+1] = Def.ActorFrame{
 	OffCommand=function(s) s:linear(0.15):diffusealpha(0) end,
 	Def.Sprite{
-		Texture=THEME:GetPathG("","_shared/ddr"),
-		InitCommand=function(s) s:zoom(0.667):xy(SCREEN_LEFT+96,_screen.t+39) end,
+		Texture=THEME:GetPathG("","_shared/tex"),
+		InitCommand=function(s) s:zoom(0.667):xy(SCREEN_LEFT+96,_screen.t+39):pause():setstate(GetProjectName()) end,
 	};
 	Def.Sprite{
 		Texture="RESULTS",

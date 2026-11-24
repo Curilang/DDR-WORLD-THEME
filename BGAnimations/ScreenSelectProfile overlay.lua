@@ -288,8 +288,8 @@ return Def.ActorFrame{
 	StandardDecorationFromFileOptional("Footer", "Footer");
 	GetSoftwareVersion();
 	Def.Sprite {
-		Texture=THEME:GetPathG("","_shared/ddr"),
-		InitCommand=function(s) s:zoom(0.667):xy(_screen.l+96,_screen.t+39) end, 
+		Texture=THEME:GetPathG("","_shared/tex"),
+		InitCommand=function(s) s:zoom(0.667):xy(_screen.l+96,_screen.t+39):pause():setstate(GetProjectName()) end, 
 	};
 	Def.Sound{
 		File=THEME:GetPathS("WORLD/Profile", "in"),

@@ -204,18 +204,15 @@ return Def.ActorFrame{
 					end
 				end,
 			};
-
-			Def.Sprite{
-				Texture="deco",
-				InitCommand=function(s)
-					s:y(83):setsize(120, 6):texcoordvelocity(-0.2, 0):visible(false)
-				end,
+			StripeLine{
+				Name = "Line", 
+				w = 120, h = 6, y = 83, count = 10, visible = false,
 				SetCommand=function(s, p)
 					if p.Index ~= nil then
 						s:visible(p.HasFocus and true or false)
 					end
 				end,
-			};
+			},
 		};
 		Def.Sprite{
 			Name="Banner",

@@ -4,14 +4,13 @@ PREFSMAN:SetPreference('SongBackgrounds', true)
 return Def.ActorFrame { 
 	Def.ActorFrame{
 		OnCommand=function(s)
-			SOUND:PlayAnnouncer("title menu game name")
 			SOUND:PlayOnce(THEME:GetPathS("WORLD/ScreenLogo", "in"))
 		end,
 	};
 	
 	Def.Sprite{
 		Texture="logo",
-		InitCommand=function(s) s:xy(_screen.cx,_screen.cy-40):zoom(0.667) end,
+		InitCommand=function(s) s:xy(_screen.cx,_screen.cy-40):zoom(0.667):pause():setstate(EasterEgg() and 2 or GetProjectName()) end,
 	};
 	Def.Sprite{
 		Texture="copyright",

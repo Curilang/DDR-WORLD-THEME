@@ -130,14 +130,14 @@ local function genScrollerFrame(pn)
 			};
 			Def.ActorFrame{
 				Name="Highlight";
-				Def.Sprite{
-					Texture=THEME:GetPathG("","_shared/line"),
-					InitCommand=function(s) s:xy(pn==PLAYER_1 and -54 or 54,43):setsize(128,6):texcoordvelocity(-0.15,0) end,
-				};
-				Def.Sprite{
-					Texture=THEME:GetPathG("","_shared/line"),
-					InitCommand=function(s) s:xy(pn==PLAYER_1 and 64 or -64,53):setsize(107,6):texcoordvelocity(-0.15,0) end,
-				};
+				StripeLine{
+					Name = "Line", 
+					w = 128, h = 6, x=pn==PLAYER_1 and -54 or 54, y = 43, count = 13, visible = true,
+				},
+				StripeLine{
+					Name = "Line", 
+					w = 107, h = 6, x=pn==PLAYER_1 and 64 or -64, y = 53, count = 11, visible = true,
+				},
 			};
 			Def.ActorFrame{
 				InitCommand=function(s) s:xy(pn==PLAYER_1 and 54 or -81,13) end,
@@ -786,7 +786,6 @@ local t = Def.ActorFrame{
 	genButtons(PLAYER_1)..{ Condition=GAMESTATE:IsSideJoined(PLAYER_1) };
 	genButtons(PLAYER_2)..{ Condition=GAMESTATE:IsSideJoined(PLAYER_2) };
 	SOUND:PlayOnce(THEME:GetPathS("WORLD/SelectDifficulty","in"));
-	SOUND:PlayAnnouncer("select level")
 }
 
 t[#t+1] = Def.ActorFrame{

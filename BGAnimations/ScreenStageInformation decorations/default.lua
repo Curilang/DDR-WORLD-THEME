@@ -35,25 +35,6 @@ t[#t+1] = Def.ActorFrame{
 	
 t[#t+1] = LoadActor("_doors");
 
--- t[#t+1] = Def.ActorFrame{
-	-- Def.Sprite{
-		-- Texture=THEME:GetPathG("","_shared/circle"),
-		-- InitCommand = function(s) s:xy(_screen.cx,_screen.cy-13.5)
-			-- s:clearzbuffer(false)
-			-- s:zwrite(true)
-			-- s:blend('BlendMode_NoEffect')
-			-- s:zoom(0):sleep(2.4):linear(0.1):zoom(0.35):linear(1):zoom(0.55)
-		-- end,
-	-- };
-	-- Def.Quad{
-		-- InitCommand=function(s) s:MaskDest()
-			-- s:xy(_screen.cx,_screen.cy-13.5)
-			-- s:diffuse(Color.Black):setsize(330,287):diffusealpha(0)
-		-- end,
-		-- OnCommand=function(s) s:sleep(2.3):linear(0.1):diffusealpha(0.15) end,
-	-- };
--- };
-
 t[#t+1] = Def.ActorFrame{
 	InitCommand=function(s) s:diffusealpha(0) end,
 	OnCommand=function(s) s:sleep(2.6):linear(1):diffusealpha(1) end,
@@ -95,8 +76,6 @@ t[#t+1] = Def.ActorFrame{
 	CircleMask("Color","#0cb77e",2.1);
 	CircleMask("Color","#0dc474",2.2);
 };
-
-
 
 t[#t+1] = Def.Sprite{ 
 	Texture=THEME:GetPathG("","_shared/circle"), 

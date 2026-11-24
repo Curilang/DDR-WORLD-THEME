@@ -34,10 +34,8 @@ return Def.ActorFrame{
 	},
 	
 	LoadActor("deco")..{ 
-		InitCommand=function(s) 
-		s:zoom(0.667):xy(_screen.cx-133,_screen.cy-255)
-		s:rotationz(-45):texcoordvelocity(0.03,0):cropleft(0.44) 
-		end 
+		InitCommand=function(s) s:setstate(GetProjectName()):zoom(0.667):xy(_screen.cx-133,_screen.cy-255):rotationz(-45)
+		s:texcoordvelocity(0.03,0):cropleft(0.44) end, 
 	},
 	
 	LoadActor("trng_b")..{ 

@@ -1,4 +1,13 @@
-local t = Def.ActorFrame{ GetSoftwareVersion(); };
+local t = Def.ActorFrame{ 
+	GetSoftwareVersion(); 
+	Def.Actor{
+		OnCommand=function(s) s:sleep(0.25):queuecommand("Play") end,
+		PlayCommand=function(s)
+			SOUND:PlayAnnouncer('select language')
+		end,
+	};
+};
+
 local xspacing = 40
 local curIndex = 1;
 local LangItems = { "English", "Japanese", "Korean" };
@@ -22,13 +31,12 @@ local function MakeRowItem(LangItems, idx)
                 GainFocusCommand=function(s) s:setstate(1) end,
                 LoseFocusCommand=function(s) s:setstate(0) end,
             };
-            Def.Sprite{
-                Texture=THEME:GetPathG("","_shared/line"),
-                InitCommand=function(s) s:visible(false):setsize(268,7):y(23):queuecommand("Animate") end,
-                GainFocusCommand=function(s) s:visible(true) end,
-                AnimateCommand=function(s) s:texcoordvelocity(-0.1,0) end,
-                LoseFocusCommand=function(s) s:visible(false) end,
-            };
+			StripeLine{
+				Name = "Line", 
+				w = 268, h = 8, y = 22, visible = false,
+				GainFocusCommand = function(s) s:visible(true) end,
+				LoseFocusCommand = function(s) s:visible(false) end,
+			},
         };
         Def.Sprite{
             Texture=LangItems,
@@ -54,6 +62,7 @@ local function input(event, param)
             ThemePrefs.Set("Language",LangItems[curIndex])
             SOUND:PlayOnce(THEME:GetPathS("common","start"))
             GetLanguage()
+			SOUND:PlayAnnouncer('select language comment '..LangItems[curIndex])
             SCREENMAN:GetTopScreen():StartTransitioningScreen("SM_GoToNextScreen")
         elseif event.GameButton == "Back" then
             SOUND:StopMusic()

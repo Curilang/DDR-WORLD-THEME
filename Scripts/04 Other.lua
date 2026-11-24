@@ -187,12 +187,139 @@ function IsDataSaveSummary()
 	local curScreen = Var "LoadingScreen"
 	return curScreen == "ScreenDataSaveSummary"
 end
-
-function IsPremiumCustomizer()
-	local curScreen = Var "LoadingScreen"
-	return curScreen == "ScreenPremiumCustomizer"
-end
 --Screens
+
+-- ======================= StripeLine (global) =======================
+-- Barra de franjas diagonales dibujada por código (sin gráfico).
+-- Uso:  StripeLine{ Name="Line", w=238, h=8, x=0, y=30 }
+-- Opciones (todas opcionales):
+--   Name, w, h, x, y   nombre, tamaño y posición
+--   period             ancho de un par de franjas (px)          [16]
+--   band               ancho de la franja oscura (px)           [8]
+--   slant              inclinación (px, negativo = al revés)    [8]
+--   speed              px/seg (0 = fija, negativo = al revés)   [12]
+--   dark, light        colores; light = nil -> sin fondo        [negro, nil]
+--   visible            visible al inicio                        [true]
+--   InitCommand, GainFocusCommand, LoseFocusCommand, ...  se pasan al frame
+do
+	-- recorta un polígono contra una línea vertical x = edge
+	local function ClipX(poly, edge, keepGreater)
+		local out, n = {}, #poly
+		for i = 1, n do
+			local a, b = poly[i], poly[i % n + 1]
+			local ain = keepGreater and (a[1] >= edge) or (not keepGreater and a[1] <= edge)
+			local bin = keepGreater and (b[1] >= edge) or (not keepGreater and b[1] <= edge)
+			if ain then out[#out + 1] = a end
+			if ain ~= bin then
+				local k = (edge - a[1]) / (b[1] - a[1])
+				out[#out + 1] = { edge, a[2] + (b[2] - a[2]) * k }
+			end
+		end
+		return out
+	end
+
+	local function BuildVerts(o, phase)
+		local verts = {}
+		local hw, hh = o.w / 2, o.h / 2
+		local function fan(poly, col)
+			for i = 2, #poly - 1 do
+				for _, p in ipairs({ poly[1], poly[i], poly[i + 1] }) do
+					verts[#verts + 1] = { { p[1] - hw, p[2] - hh, 0 }, col }
+				end
+			end
+		end
+
+		if o.light then
+			fan({ {0, 0}, {o.w, 0}, {o.w, o.h}, {0, o.h} }, o.light)
+		end
+
+		local sl = o.slant
+		local x0 = (phase % o.period) - o.period * 2
+		while x0 < o.w do
+			local poly = {
+				{ x0 + sl,          0 },
+				{ x0 + sl + o.band, 0 },
+				{ x0 + o.band,      o.h },
+				{ x0,               o.h },
+			}
+			poly = ClipX(ClipX(poly, 0, true), o.w, false)
+			if #poly >= 3 then fan(poly, o.dark) end
+			x0 = x0 + o.period
+		end
+		return verts
+	end
+
+	function StripeLine(opts)
+		opts = opts or {}
+		local w      = opts.w or 238
+		local period = opts.count and (w / opts.count) or opts.period or 16
+		local o = {
+			w      = w,
+			h      = opts.h or 8,
+			period = period,
+			band   = opts.band or (period * (opts.ratio or 0.5)),
+			slant  = opts.slant or (opts.count and period * 0.5 or 8),
+			speed  = opts.speed or 25,
+			dark   = opts.dark or color("0,0,0,1"),
+			light  = opts.light,               -- nil = sin fondo (solo franjas)
+		}
+		local vis   = (opts.visible ~= false)
+		local steps = math.max(1, math.floor(o.period * 4))   -- posiciones por ciclo (0.25 px)
+		local cache = {}
+
+		-- vértices de la posición i (se calculan una sola vez y se reutilizan)
+		local function Frame(i)
+			local c = cache[i]
+			if not c then
+				c = BuildVerts(o, i * o.period / steps)
+				cache[i] = c
+			end
+			return c
+		end
+
+		-- SetVertices solo hace crecer la lista: se recorta primero al tamaño de este dibujo
+		local function Apply(mv, verts)
+			if mv.SetNumVertices then mv:SetNumVertices(#verts) end
+			mv:SetVertices(verts)
+		end
+
+		local frame = Def.ActorFrame {
+			Name = opts.Name or "Line",
+			InitCommand = function(self)
+				self:xy(opts.x or 0, opts.y or 0):visible(vis)
+					if o.speed ~= 0 then
+					self:SetUpdateFunction(function(f)
+						if f:GetVisible() then
+							local idx = math.floor(GetTimeSinceStart() * o.speed / o.period * steps) % steps
+							if f.lastIdx ~= idx then
+								f.lastIdx = idx
+								Apply(f:GetChild("Mesh"), Frame(idx))
+							end
+						end
+					end)
+				end
+				if opts.InitCommand then opts.InitCommand(self) end
+			end,
+
+			Def.ActorMultiVertex {
+				Name = "Mesh",
+				InitCommand = function(self)
+					self:SetDrawState{ Mode = "DrawMode_Triangles" }
+					Apply(self, Frame(0))
+				end,
+			},
+		}
+
+		-- pasa GainFocusCommand, LoseFocusCommand, OnCommand, etc. tal cual
+		for k, v in pairs(opts) do
+			if type(k) == "string" and k:match("Command$") and k ~= "InitCommand" then
+				frame[k] = v
+			end
+		end
+
+		return frame
+	end
+end
 
 -- Reverse elegido por el jugador (Preferred): ya es correcto al construir la pantalla,
 -- a diferencia de Current, que todavía trae lo de la partida anterior.

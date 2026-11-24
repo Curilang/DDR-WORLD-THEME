@@ -3,8 +3,6 @@ local ScreenFilter = GAMESTATE:IsDemonstration() and 0.3 or FilterReadPref(pn);
 
 local style = GAMESTATE:GetCurrentStyle():GetStepsType() == 'StepsType_Dance_Double' and "Double" or "Single"
 
-local player = (pn == PLAYER_1) and "P1" or "P2"
-
 local Position
 if PREFSMAN:GetPreference('Center1Player') and GAMESTATE:GetNumPlayersEnabled() == 1 and GAMESTATE:GetNumSidesJoined() == 1 then 
 	Position = _screen.cx

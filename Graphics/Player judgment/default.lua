@@ -64,6 +64,7 @@ local TNSFrames = {
 
 local t = Def.ActorFrame {};
 
+local EasterEgg = EasterEgg() and "Mervelous" or "Judgment"
 
 
 t[#t+1] = Def.ActorFrame {
@@ -93,7 +94,7 @@ t[#t+1] = Def.ActorFrame {
 	AnimateCommand=cmd(diffusealpha,1;zoom,0.37*1.5;linear,0.05;zoom,0.34*1.5;sleep,0.4;diffusealpha,0);
 };
 	
-	LoadActor("Judgment") .. {
+	LoadActor(EasterEgg) .. {
 		Name="Judgment";
 		InitCommand=function(s) s:y(2+PositionShift()):pause():visible(false) end;
 		ResetCommand=cmd(finishtweening;stopeffect;visible,false);

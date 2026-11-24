@@ -362,9 +362,11 @@ function WheelButtons.Make()
 				}
 			end
 		end
-		out[#out + 1] = Def.Sprite{
-			Name = "Stripes", Texture = THEME:GetPathG("", "_shared/line"),
-			InitCommand = function(s) s:y(h / 2 - 4):setsize(S.w, 14):texcoordvelocity(-0.1, 0) end,
+		out[#out + 1] = StripeLine{
+			Name = "Stripes",
+			w = S.w, h = 14, y = h / 2 - 4 - 2, visible = false,
+			period = 26, band = 13, slant = 13,
+			speed = 42,
 		}
 		return out
 	end

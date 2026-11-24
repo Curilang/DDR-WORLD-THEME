@@ -43,17 +43,11 @@ return Def.ActorFrame{
 			Texture=THEME:GetPathG("ScreenSelectStyle","Scroll/next"),
 			InitCommand=function(s) s:y(147):pause():setstate(GetCurrentLanguage()) end,
 		},
-		Def.Sprite{
-			Texture=THEME:GetPathG("","_shared/line"),
-			InitCommand=function(s) s:y(174):setsize(224,9):texcoordvelocity(-0.15,0) end,
-			GainFocusCommand=function(s) s:visible(true) end,
-			LoseFocusCommand=function(s) s:visible(false) end,
-		},
-		Def.Sprite{
-			Texture=THEME:GetPathG("","_shared/line"),
-			InitCommand=function(s) s:y(174):setsize(224,9):texcoordvelocity(-0.15,0) end,
-			GainFocusCommand=function(s) s:visible(true) end,
-			LoseFocusCommand=function(s) s:visible(false) end,
+		StripeLine{
+			Name = "Line", 
+			w = 224, h = 8, y = 175, visible = false,
+			GainFocusCommand = function(s) s:visible(true) end,
+			LoseFocusCommand = function(s) s:visible(false) end,
 		},
 	}
 };
