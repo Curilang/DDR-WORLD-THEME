@@ -17,6 +17,18 @@
 
 ---POP MUSIC
 // songs whose genre says pop, and licensed pop artists
+@pop
+@k-pop
+@jena rose
+@dormir
+@harmony machine
+@qrispy joybox
+@c-show
+@scotty d.
+@tommie sunshine
+@porter robinson
+@jakazid
+
 //DDR WORLD - Licensed Songs
 21 - DDR World/About Damn Time
 21 - DDR World/Akatsuki
@@ -126,21 +138,27 @@
 16 - DDR A/Wake Me Up
 16 - DDR A/Youkoso Japari Park e
 
-// DEFAULTS
-@pop
-@k-pop
-@jena rose
-@dormir
-@harmony machine
-@qrispy joybox
-@c-show
-@scotty d.
-@tommie sunshine
-@porter robinson
-@jakazid
-
 ---VIRTUAL POP
 // songs sung by virtual singers (VOCALOID and similar) and their producers
+// vocaloid
+// hatsune
+// miku
+// 初音ミク
+// ボカロ
+// deco*27
+// ピノキオピー
+// cosmo＠暴走p
+// kanaria
+// 40mp
+// wowaka
+// doriko
+// livetune
+// kikuo
+// last note.
+// relect
+// 日向美ビタースイーツ♪
+// 音戯探偵ひなビタ♫
+// ひなビタ
 
 // DDR WORLD - Licensed Songs (VOCALOID and similar)
 21 - DDR World/Buta thunder
@@ -201,29 +219,18 @@
 16 - DDR A/SLoWMoTIoN
 16 - DDR A/Yi-er fanclub
 
-// DEFAULTS
-// vocaloid
-// hatsune
-// miku
-// 初音ミク
-// ボカロ
-// deco*27
-// ピノキオピー
-// cosmo＠暴走p
-// kanaria
-// 40mp
-// wowaka
-// doriko
-// livetune
-// kikuo
-// last note.
-// relect
-// 日向美ビタースイーツ♪
-// 音戯探偵ひなビタ♫
-// ひなビタ
-
 ---ANIME & GAME
 // anime and game songs
+// @anime
+// @アニメ
+// @亜咲花
+// @中島由貴
+// @日本少年
+// @工藤吉三
+// @ベイシスケイプ
+// @ときめきアイドル project
+// @dkc crew
+
 // DDR WORLD - Licensed songs (ANIME)
 21 - DDR World/Ex-Otogibanashi
 21 - DDR World/Sign wa B -New Arrange Ver.-
@@ -270,19 +277,33 @@
 16 - DDR A/Tatakae! Dadandarn V
 16 - DDR A/Twin memories W
 
-// DEFAULTS
-// @anime
-// @アニメ
-// @亜咲花
-// @中島由貴
-// @日本少年
-// @工藤吉三
-// @ベイシスケイプ
-// @ときめきアイドル project
-// @dkc crew
-
 ---TOUHOU
 // TOUHOU Project arrangements (arrangement circles and character names)
+// @touhou
+// @東方
+// @iosys
+// @cool&create
+// @ビートまりお
+// @alstroemeria
+// @demetori
+// @暁records
+// @bad apple
+// @cirno
+// @marisa
+// @reimu
+// @erin
+// @sakuya
+// @flandre
+// @yuyuko
+// @patchouli
+// @koishi
+// @satori
+// @mokou
+// @arm
+// @夜叉姫神楽
+// @猫叉master
+// @猫叉master+
+
 --DDR World - Touhou Project (東方Project)
 21 - DDR World/4NT1 D34D
 21 - DDR World/Awa de kono yo wo
@@ -345,35 +366,30 @@
 16 - DDR A/Plain Asia -PHQ remix-
 16 - DDR A/Sennen no kotowari
 
-// DEFAULTS
-// @touhou
-// @東方
-// @iosys
-// @cool&create
-// @ビートまりお
-// @alstroemeria
-// @demetori
-// @暁records
-// @bad apple
-// @cirno
-// @marisa
-// @reimu
-// @erin
-// @sakuya
-// @flandre
-// @yuyuko
-// @patchouli
-// @koishi
-// @satori
-// @mokou
-// @arm
-// @夜叉姫神楽
-// @猫叉master
-// @猫叉master+
-
 ---FOR MUSIC GAMERS
 // songs from OTHER music games (composers of beatmania IIDX, SOUND VOLTEX, pop'n music... and other game series).
 // (the songs that were made for DDR itself are not here: they are in ALL MUSIC and the other folders)
+@dj taka
+@taka
+@dj yoshitaka
+@dj totto
+@dj shimamura
+@dj mass mad izm*
+@sota f.
+@sota fujimori
+@s-c-u
+@hommarju
+@かめりあ
+@blacky
+@akira yamaoka
+@toby fox
+@undertale
+@ke!ju
+@syunn
+@yvya
+@sky_delta
+@taq
+@2mb
 
 // DDR WORLD - BEMANI crossovers
 21 - DDR WORLD/1116
@@ -791,29 +807,6 @@
 16 - DDR A/StrayedCatz
 16 - DDR A/Triple Counter
 16 - DDR A/ZEPHYRANTHES
-
-// DEFAULTS
-@dj taka
-@taka
-@dj yoshitaka
-@dj totto
-@dj shimamura
-@dj mass mad izm*
-@sota f.
-@sota fujimori
-@s-c-u
-@hommarju
-@かめりあ
-@blacky
-@akira yamaoka
-@toby fox
-@undertale
-@ke!ju
-@syunn
-@yvya
-@sky_delta
-@taq
-@2mb
 
 ---HINABITA & BANMESHI
 //ひなビタ♪&バンめし♪曲
