@@ -540,6 +540,13 @@ local function Sound(name)
 	end
 end
 
+-- switches between Simple and Normal (Simple: one value per category and START closes; Normal: several values)
+local function ToggleMode()
+	Filter.Mode = (Filter.Mode == "Normal") and "Simple" or "Normal"
+	Sound("folder_change") -- sound: "Method"
+	EXPLAIN.untilTime = GetTimeSinceStart() + EXPLAIN.hold   -- the explanation shows for a while
+end
+
 local function Close()
 	if Filter.Active() and Filter.Count() == 0 then
 		Sound("change_sound")   -- nothing would be listed: the menu stays open
@@ -619,6 +626,15 @@ function FilterMenu.Input(event)
 	local b = event.GameButton
 	local c = Category()
 
+	-- SELECT switches Simple / Normal in the category list and in the values (Filter Switch)
+	if b == "Select" then
+		if event.type == "InputEventType_FirstPress" then
+			ToggleMode()
+			Refresh()
+		end
+		return true
+	end
+
 	if focus == "cat" then
 		if b == "MenuUp" or b == "Up" then
 			if catIndex >= BACK_INDEX then catIndex = NCAT else catIndex = (catIndex == 1) and NCAT or catIndex - 1 end
@@ -635,10 +651,7 @@ function FilterMenu.Input(event)
 				catIndex = BACK_INDEX
 				Sound("change_sound") -- sound: "Method"
 			elseif catIndex < BACK_INDEX then
-				-- Simple: one value per category and START closes; Normal: several values
-				Filter.Mode = (Filter.Mode == "Normal") and "Simple" or "Normal"
-				Sound("folder_change") -- sound: "Method"
-				EXPLAIN.untilTime = GetTimeSinceStart() + EXPLAIN.hold   -- the explanation shows for a while
+				ToggleMode()
 			end
 		elseif b == "MenuRight" or b == "Right" or b == "Start" then
 			if catIndex == BACK_INDEX then
