@@ -18,163 +18,115 @@
 ---POP MUSIC
 // songs whose genre says pop, and licensed pop artists
 //DDR WORLD - Licensed Songs
-@About Damn Time
-@Akatsuki
-@Aoba no ashioto
-@Better When I'm Dancin'
-@Blinding Lights
-@Buta thunder
-@Cheerleader
-@Ex-Otogibanashi
-@Explore
-@Firework
-@Ga-ga-ga-galaxy!
-@Gimmick gimmick entertainment
-@Good Life
-@Hihou! Wai! Neet!
-@Hito mania
-@Ice cream magic
-@Igaku
-@Kakugoseyo! Enternmeen ~yori mi no kiriuri jiboujiki ban~
-@Knock Yourself Out XD
-@Kyoufuu all back
-@Kyu-kurarin
-@Levitating
-@Liar dancer
-@Mesmerizer
-@Miles on It
-@Neoki yashi no ki
-@One Kiss
-@Override
-@Rabbit hole
-@Rain On Me
-@Shooting Star
-@Shukusei!! Loli-kami requiem
-@Sign wa B -New Arrange Ver.-
-@Silent Flame,Never Fade
-@Somedays
-@Stars In The Sky
-@Tetoris
-@Tokumei M
-@Vampire
-@Warera kanzen muteki no idol!!
-@Yumeiro wonder
+21 - DDR World/About Damn Time
+21 - DDR World/Akatsuki
+21 - DDR World/Aoba no ashioto
+21 - DDR World/Better When I'm Dancin'
+21 - DDR World/Blinding Lights
+21 - DDR World/Cheerleader
+21 - DDR World/Ex-Otogibanashi
+21 - DDR World/Firework
+21 - DDR World/Gimmick gimmick entertainment
+21 - DDR World/Good Life
+21 - DDR World/Ice cream magic
+21 - DDR World/Knock Yourself Out XD
+21 - DDR World/Levitating
+21 - DDR World/Miles on It
+21 - DDR World/One Kiss
+21 - DDR World/Rain On Me
+21 - DDR World/Shooting Star
+21 - DDR World/Shukusei!! Loli-kami requiem
+21 - DDR World/Sign wa B -New Arrange Ver.-
+21 - DDR World/Silent Flame,Never Fade
+21 - DDR World/Somedays
+21 - DDR World/Stars In The Sky
+21 - DDR World/Warera kanzen muteki no idol!!
+21 - DDR World/Yumeiro wonder
 
 //DDR WORLD - Licensed Covers
-@Aka to ao no rampage (cover)
-@Boku no hikouki (cover)
-@Casino fire Kotomi-chan (cover)
-@Dadadadadadadadadada (NIJISANJI Dance-bu ver.)
-@Din Don Dan (NIJISANJI Dance-bu ver.)
-@Homesick Pt.2&3 (cover)
-@Kawaikute gomen
-@murmur twins (guitar pop ver.)
-@Remember remember (cover)
-@Show
-@Trauma saimin shoujo Satori!
-@WOW WAR TONIGHT ~tokiniha okoseyo movement
-@Yuusha
-@Zattou, bokura no machi
+21 - DDR World/Aka to ao no rampage (cover)
+21 - DDR World/Boku no hikouki (cover)
+21 - DDR World/Casino fire Kotomi-chan (cover)
+21 - DDR World/Dadadadadadadadadada (NIJISANJI Dance-bu ver.)
+21 - DDR World/Din Don Dan (NIJISANJI Dance-bu ver.)
+21 - DDR World/Homesick Pt.2&3 (cover)
+21 - DDR World/Kawaikute gomen
+21 - DDR World/murmur twins (guitar pop ver.)
+21 - DDR World/Remember remember (cover)
+21 - DDR World/Show
+21 - DDR World/Trauma saimin shoujo Satori!
+21 - DDR World/WOW WAR TONIGHT ~tokiniha okoseyo movement
+21 - DDR World/Yuusha
+21 - DDR World/Zattou, bokura no machi
 
 //DDR A3 - Licensed Songs
-@Ayumi Magical Showtime
-@Battle Against a True Hero
-@Death by Glamour
-@Eon Break
-@Finale
-@KING
-@Look at the Sky
-@MEGALOVANIA
-@Musician
-@Poppin' candy fever!
-@Positive dance time
-@Pure Rude
-@Something Comforting
-@Yoidore shirazu
+20 - DDR A3/Battle Against a True Hero
+20 - DDR A3/Death by Glamour
+20 - DDR A3/Eon Break
+20 - DDR A3/Finale
+20 - DDR A3/Look at the Sky
+20 - DDR A3/MEGALOVANIA
+20 - DDR A3/Musician
+20 - DDR A3/Pure Rude
+20 - DDR A3/Something Comforting
 
 //DDR A3 - Licensed Covers
-@Ichizu
-@Mixed nuts
-@SOUVENIR
+20 - DDR A3/Ichizu
+20 - DDR A3/Mixed nuts
+20 - DDR A3/SOUVENIR
 
 //DDR A20 PLUS - Licensed Songs
-@Haru wo tsugeru
-@I believe what you said
-@Koi
-@Nadame sukashi Negotiation
-@Realize
-@Roki (Megumi Ogata)
-@S'il vous president
-@Saika
-@Seize The Day
-@SHINY DAYS
-@Shisouhan
-@Skyclad no kansokusha
-@Telecaster B-boy
-@Zassou tamashii namen na yo!
+18 - DDR A20 PLUS/Haru wo tsugeru
+18 - DDR A20 PLUS/I believe what you said
+18 - DDR A20 PLUS/Koi
+18 - DDR A20 PLUS/Nadame sukashi Negotiation
+18 - DDR A20 PLUS/Realize
+18 - DDR A20 PLUS/Roki (Megumi Ogata)
+18 - DDR A20 PLUS/S'il vous president
+18 - DDR A20 PLUS/Saika
+18 - DDR A20 PLUS/Seize The Day
+18 - DDR A20 PLUS/SHINY DAYS
+18 - DDR A20 PLUS/Shisouhan
+18 - DDR A20 PLUS/Skyclad no kansokusha
+18 - DDR A20 PLUS/Zassou tamashii namen na yo!
 
 //DDR A20 - Licensed Songs
-@Alone
-@Clarity
-@Dokusenyoku
-@I'm an Albatraoz
-@Kusare gedou to chocolate
-@Liar dance
-@Mousou kanshou daishou renmei
-@New Rules
-@No Tears Left to Cry
-@Party Rock Anthem
-@Play Hard
-@Reiwa
-@Something Just Like This (Alesso Remix)
-@Sukina koto dakede ii desu
-@The Light
-@Tiger rampage
+17 - DDR A20/Alone
+17 - DDR A20/Clarity
+17 - DDR A20/I'm an Albatraoz
+17 - DDR A20/New Rules
+17 - DDR A20/No Tears Left to Cry
+17 - DDR A20/Party Rock Anthem
+17 - DDR A20/Play Hard
+17 - DDR A20/Reiwa
+17 - DDR A20/Something Just Like This (Alesso Remix)
 
 //DDR A20 - Legend License Remixes-Covers
-@BUTTERFLY (20th Anniversary Mix)
-@CARTOON HEROES (20th Anniversary Mix)
-@HAVE YOU NEVER BEEN MELLOW (20th Anniversary Mix)
-@LONG TRAIN RUNNIN' (20th Anniversary Mix)
-@SKY HIGH (20th Anniversary Mix)
+17 - DDR A20/BUTTERFLY (20th Anniversary Mix)
+17 - DDR A20/CARTOON HEROES (20th Anniversary Mix)
+17 - DDR A20/HAVE YOU NEVER BEEN MELLOW (20th Anniversary Mix)
+17 - DDR A20/LONG TRAIN RUNNIN' (20th Anniversary Mix)
+17 - DDR A20/SKY HIGH (20th Anniversary Mix)
 
 //DDR A - Licensed Songs
-@39
-@Ai kotoba
-@Alien Alien
-@Ama no jyaku
-@Arifureta sekai seifuku
-@Believe
-@Break Free
-@Buraikku jikorizer
-@Determination
-@EDM jumpers
-@Happy
-@Happy synthesizer
-@Hatsune Miku no shoushitsu
-@Hello, planet
-@Hillbilly Shoes
-@Houkago stride
-@I Want You To Know
-@Kunshi ayauku mo chikou yore
-@Lost one no goukoku
-@More One Night
-@Mousou zei
-@Nou shou sakuretsu girl
-@Onegai darling
-@Rinnetensei
-@Rokuchounen to ichiya monogatari
-@Role-playing game
-@Roshin yuukai
-@Shiawase ni nareru kakushi command ga arurashii
-@Shut Up and Dance
-@SLoWMoTIoN
-@The Night Away (MK Remix)
-@Time Of Our Lives
-@Wake Me Up
-@Yi-er fanclub
-@Youkoso Japari Park e
+16 - DDR A/Believe
+16 - DDR A/Break Free
+16 - DDR A/Buraikku jikorizer
+16 - DDR A/Determination
+16 - DDR A/Happy
+16 - DDR A/Hillbilly Shoes
+16 - DDR A/I Want You To Know
+16 - DDR A/Kunshi ayauku mo chikou yore
+16 - DDR A/More One Night
+16 - DDR A/Onegai darling
+16 - DDR A/Role-playing game
+16 - DDR A/Shut Up and Dance
+16 - DDR A/The Night Away (MK Remix)
+16 - DDR A/Time Of Our Lives
+16 - DDR A/Wake Me Up
+16 - DDR A/Youkoso Japari Park e
 
+// DEFAULTS
 @pop
 @k-pop
 @jena rose
@@ -189,129 +141,658 @@
 
 ---VIRTUAL POP
 // songs sung by virtual singers (VOCALOID and similar) and their producers
-@vocaloid
-@hatsune
-@miku
-@初音ミク
-@ボカロ
-@deco*27
-@ピノキオピー
-@cosmo＠暴走p
-@kanaria
-@40mp
-@wowaka
-@doriko
-@livetune
-@kikuo
-@last note.
-@relect
-@日向美ビタースイーツ♪
-@音戯探偵ひなビタ♫
-@ひなビタ
+
+// DDR WORLD - Licensed Songs (VOCALOID and similar)
+21 - DDR World/Buta thunder
+21 - DDR World/Explore
+21 - DDR World/Ga-ga-ga-galaxy!
+21 - DDR World/Hihou! Wai! Neet!
+21 - DDR World/Hito mania
+21 - DDR World/Igaku
+21 - DDR World/Kakugoseyo! Enternmeen ~yori mi no kiriuri jiboujiki ban~
+21 - DDR World/Kyoufuu all back
+21 - DDR World/Kyu-kurarin
+21 - DDR World/Liar dancer
+21 - DDR World/Mesmerizer
+21 - DDR World/Neoki yashi no ki
+21 - DDR World/Override
+21 - DDR World/Rabbit hole
+21 - DDR World/Tetoris
+21 - DDR World/Tokumei M
+21 - DDR World/Vampire
+
+// DDR A3 - Licensed Songs (VOCALOID and similar)
+20 - DDR A3/Ayumi Magical Showtime
+20 - DDR A3/KING
+20 - DDR A3/Poppin' candy fever!
+20 - DDR A3/Positive dance time
+20 - DDR A3/Yoidore shirazu
+
+// DDR A20 PLUS - Licensed Songs (VOCALOID and similar)
+18 - DDR A20 PLUS/Telecaster B-boy
+
+// DDR A20 - Licensed Songs (VOCALOID and similar)
+17 - DDR A20/Dokusenyoku
+17 - DDR A20/Kusare gedou to chocolate
+17 - DDR A20/Liar dance
+17 - DDR A20/Mousou kanshou daishou renmei
+17 - DDR A20/Sukina koto dakede ii desu
+17 - DDR A20/The Light
+17 - DDR A20/Tiger rampage
+
+// DDR A - Licensed Songs (VOCALOID and similar)
+16 - DDR A/39
+16 - DDR A/Ai kotoba
+16 - DDR A/Alien Alien
+16 - DDR A/Ama no jyaku
+16 - DDR A/Arifureta sekai seifuku
+16 - DDR A/EDM jumpers
+16 - DDR A/Happy synthesizer
+16 - DDR A/Hatsune Miku no shoushitsu
+16 - DDR A/Hello, planet
+16 - DDR A/Houkago stride
+16 - DDR A/Lost one no goukoku
+16 - DDR A/Mousou zei
+16 - DDR A/Nou shou sakuretsu girl
+16 - DDR A/Rinnetensei
+16 - DDR A/Rokuchounen to ichiya monogatari
+16 - DDR A/Roshin yuukai
+16 - DDR A/Shiawase ni nareru kakushi command ga arurashii
+16 - DDR A/SLoWMoTIoN
+16 - DDR A/Yi-er fanclub
+
+// DEFAULTS
+// vocaloid
+// hatsune
+// miku
+// 初音ミク
+// ボカロ
+// deco*27
+// ピノキオピー
+// cosmo＠暴走p
+// kanaria
+// 40mp
+// wowaka
+// doriko
+// livetune
+// kikuo
+// last note.
+// relect
+// 日向美ビタースイーツ♪
+// 音戯探偵ひなビタ♫
+// ひなビタ
 
 ---ANIME & GAME
 // anime and game songs
-@anime
-@アニメ
-@亜咲花
-@中島由貴
-@日本少年
-@工藤吉三
-@ベイシスケイプ
-@ときめきアイドル project
-@dkc crew
+// DDR WORLD - Licensed songs (ANIME)
+21 - DDR World/Ex-Otogibanashi
+21 - DDR World/Sign wa B -New Arrange Ver.-
+21 - DDR World/Warera kanzen muteki no idol!!
+
+// DDR WORLD - Licensed covers (ANIME)
+21 - DDR World/Zattou, bokura no machi
+21 - DDR World/Yuusha
+
+// DDR WORLD - IDOLS (HOLOLIVE, REGLOSS)
+21 - DDR World/Gimmick gimmick entertainment
+21 - DDR World/Shooting Star
+21 - DDR World/Yumeiro wonder
+
+// DDR A3 - Licensed covers (ANIME)
+20 - DDR A3/Ichizu
+20 - DDR A3/Mixed nuts
+20 - DDR A3/SOUVENIR
+
+// DDR A20 PLUS - Licensed Songs (ANIME)+
+18 - DDR A20 PLUS/I believe what you said
+18 - DDR A20 PLUS/Nadame sukashi Negotiation
+18 - DDR A20 PLUS/Realize
+18 - DDR A20 PLUS/Seize The Day
+18 - DDR A20 PLUS/SHINY DAYS
+18 - DDR A20 PLUS/Zassou tamashii namen na yo!
+
+// DDR A - Licensed songs (ANIME)
+16 - DDR A/Kunshi ayauku mo chikou yore
+16 - DDR A/More One Night
+16 - DDR A/Youkoso Japari Park e
+
+// DDR A - ときめきアイドル
+16 - DDR A/DREAMING-ING!!
+16 - DDR A/Haru ichiban
+16 - DDR A/invisible rain
+16 - DDR A/Jewelry days
+16 - DDR A/Koi no puzzle magic
+16 - DDR A/Koishigure
+16 - DDR A/Shakariki relation
+16 - DDR A/Smiling Passion
+16 - DDR A/Strawberry Chu Chu
+16 - DDR A/SUN2 SUMMER STEP!
+16 - DDR A/Tatakae! Dadandarn V
+16 - DDR A/Twin memories W
+
+// DEFAULTS
+// @anime
+// @アニメ
+// @亜咲花
+// @中島由貴
+// @日本少年
+// @工藤吉三
+// @ベイシスケイプ
+// @ときめきアイドル project
+// @dkc crew
 
 ---TOUHOU
 // TOUHOU Project arrangements (arrangement circles and character names)
 --DDR World - Touhou Project (東方Project)
-@4NT1 D34D
-@Awa de kono yo wo
-@Cirno no perfect sansuu gakuen
-@Deadly Dolly Dance
-@ILL-STARRED Diver
-@Matsuyoi nightbug
-@Nostalgic Blood of the Strife
-@Princess K
-@Renkei epilogue
-@San yousei SAY YA!!!
-@SkyDrive! (HASEKO EUROBEAT MIX)
-@Tengu no otoshi bumi (feat. ytr)
-@Touhouyouyoumu ULTIMATE MEDLEY
-@Ultimate taste
+21 - DDR World/4NT1 D34D
+21 - DDR World/Awa de kono yo wo
+21 - DDR World/Cirno no perfect sansuu gakuen
+21 - DDR World/Deadly Dolly Dance
+21 - DDR World/ILL-STARRED Diver
+21 - DDR World/Matsuyoi nightbug
+21 - DDR World/Nostalgic Blood of the Strife
+21 - DDR World/Princess K
+21 - DDR World/Renkei epilogue
+21 - DDR World/San yousei SAY YA!!!
+21 - DDR World/SkyDrive! (HASEKO EUROBEAT MIX)
+21 - DDR World/Tengu no otoshi bumi (feat. ytr)
+21 - DDR World/Touhouyouyoumu ULTIMATE MEDLEY
+21 - DDR World/Ultimate taste
 
 --DDR World - BEMANI×Touhou Project
-@Danmaku shinkou
-@Heisokuteki flation
-@SUPER HEROINE!!
-@Tsuki ni murakumo hana ni kaze
-@Zanzou ni tsunagareta tsuioku no HIDEAWAY
+21 - DDR World/Danmaku shinkou
+21 - DDR World/Heisokuteki flation
+21 - DDR World/SUPER HEROINE!!
+21 - DDR World/Tsuki ni murakumo hana ni kaze
+21 - DDR World/Zanzou ni tsunagareta tsuioku no HIDEAWAY
 
 // DDR A3 - Touhou Project (東方Project)
-@HANIPAGANDA
-@INFINITE WORLD
-@Kanbu de tomatte sugu tokeru ~ kyouki no Udongein
-@Kill The Night
-@Koi no hyoketsu otenba yukemuri Cirno onsen
-@LOVE EAST
-@Respec fujin
-@Saisoku saikou shutter girl
-@Scarlet keisatsu no ghetto patrol 24 ji
-@Shuwa spa daisakusen
-@Trance dance anarcky
-@Usatei
-@WARNING WARNING WARNING
+20 - DDR A3/HANIPAGANDA
+20 - DDR A3/INFINITE WORLD
+20 - DDR A3/Kanbu de tomatte sugu tokeru ~ kyouki no Udongein
+20 - DDR A3/Kill The Night
+20 - DDR A3/Koi no hyoketsu otenba yukemuri Cirno onsen
+20 - DDR A3/LOVE EAST
+20 - DDR A3/Respec fujin
+20 - DDR A3/Saisoku saikou shutter girl
+20 - DDR A3/Scarlet keisatsu no ghetto patrol 24 ji
+20 - DDR A3/Shuwa spa daisakusen
+20 - DDR A3/Trance dance anarcky
+20 - DDR A3/Usatei
+20 - DDR A3/WARNING WARNING WARNING
 
 // DDR A20 PLUS - Touhou Project (東方Project)
-@Crazy Hot
-@Feidie
-@GUILTY DIAMONDS
-@No Life Queen [DJ Command Remix]
-@Together Going My Way
+18 - DDR A20 PLUS/Crazy Hot
+18 - DDR A20 PLUS/Feidie
+18 - DDR A20 PLUS/GUILTY DIAMONDS
+18 - DDR A20 PLUS/No Life Queen [DJ Command Remix]
+18 - DDR A20 PLUS/Together Going My Way
 
 // DDR A20 - Touhou Project (東方Project)
-@Night of Knights (Ryu Remix)
-@Saishuu kichiku imouto Flandre-S
+17 - DDR A20/Night of Knights (Ryu Remix)
+17 - DDR A20/Saishuu kichiku imouto Flandre-S
 
 // DDR A - Touhou Project (東方Project)
-@Bad Apple!! feat. nomico
-@Cirno no perfect sansuu kyoushitsu
-@Cirno no perfect sansuu kyoushitsu (EDM REMIX)
-@Grip & Break down !!
-@Help me, ERINNNNNN!!
-@Himawari sunset
-@Iro wa nioedo chirinuru wo
-@Marisa wa taihen na mono wo nusunde ikimashita
-@Night of knights
-@Plain Asia -PHQ remix-
-@Sennen no kotowari
-@touhou
-@東方
-@iosys
-@cool&create
-@ビートまりお
-@alstroemeria
-@demetori
-@暁records
-@bad apple
-@cirno
-@marisa
-@reimu
-@erin
-@sakuya
-@flandre
-@yuyuko
-@patchouli
-@koishi
-@satori
-@mokou
-@arm
-@夜叉姫神楽
-@猫叉master
-@猫叉master+
+16 - DDR A/Bad Apple!! feat. nomico
+16 - DDR A/Cirno no perfect sansuu kyoushitsu
+16 - DDR A/Cirno no perfect sansuu kyoushitsu (EDM REMIX)
+16 - DDR A/Grip & Break down !!
+16 - DDR A/Help me, ERINNNNNN!!
+16 - DDR A/Himawari sunset
+16 - DDR A/Iro wa nioedo chirinuru wo
+16 - DDR A/Marisa wa taihen na mono wo nusunde ikimashita
+16 - DDR A/Night of knights
+16 - DDR A/Plain Asia -PHQ remix-
+16 - DDR A/Sennen no kotowari
+
+// DEFAULTS
+// @touhou
+// @東方
+// @iosys
+// @cool&create
+// @ビートまりお
+// @alstroemeria
+// @demetori
+// @暁records
+// @bad apple
+// @cirno
+// @marisa
+// @reimu
+// @erin
+// @sakuya
+// @flandre
+// @yuyuko
+// @patchouli
+// @koishi
+// @satori
+// @mokou
+// @arm
+// @夜叉姫神楽
+// @猫叉master
+// @猫叉master+
 
 ---FOR MUSIC GAMERS
 // songs from OTHER music games (composers of beatmania IIDX, SOUND VOLTEX, pop'n music... and other game series).
 // (the songs that were made for DDR itself are not here: they are in ALL MUSIC and the other folders)
+
+// DDR WORLD - BEMANI crossovers
+21 - DDR WORLD/1116
+21 - DDR WORLD/7 Colors
+21 - DDR WORLD/Aka to ao no rampage
+21 - DDR WORLD/Aki nation
+21 - DDR WORLD/ARACHNE
+21 - DDR WORLD/BabeL ~Next Story~
+21 - DDR WORLD/Bad Maniacs
+21 - DDR WORLD/Beyond The Earth
+21 - DDR WORLD/BIG som tam
+21 - DDR WORLD/Bring Me Back
+21 - DDR WORLD/Chocolate Planet
+21 - DDR WORLD/Couleur=Blanche
+21 - DDR WORLD/CUE CUE RESCUE
+21 - DDR WORLD/DIAVOLO
+21 - DDR WORLD/Dopamine (STARDOM Remix)
+21 - DDR WORLD/Douwa kairou
+21 - DDR WORLD/Dual Bladez
+21 - DDR WORLD/EBONY & IVORY
+21 - DDR WORLD/Eira
+21 - DDR WORLD/Fly Like You
+21 - DDR WORLD/Four Leaves
+21 - DDR WORLD/Gale Rider
+21 - DDR WORLD/Gekkou ranbu
+21 - DDR WORLD/Hanenaki shoujo uta
+21 - DDR WORLD/HAPPY PARADISE GALAXY
+21 - DDR WORLD/Harmonia
+21 - DDR WORLD/Hollywood Galaxy
+21 - DDR WORLD/I LOVE SAKURA
+21 - DDR WORLD/Ignis Irae
+21 - DDR WORLD/Kagachi
+21 - DDR WORLD/Koiuta shippuu! Karuta queen Iroha
+21 - DDR WORLD/Liar Girl
+21 - DDR WORLD/Lisa-RICCIA
+21 - DDR WORLD/Love You
+21 - DDR WORLD/Lucy
+21 - DDR WORLD/Meikyoushisui
+21 - DDR WORLD/Mikazuki connect
+21 - DDR WORLD/MODEL FT2 Miracle Version
+21 - DDR WORLD/MVP
+21 - DDR WORLD/Nagisa no koakuma lovely~radio (STARDOM Remix)
+21 - DDR WORLD/neu (STARDOM Remix)
+21 - DDR WORLD/O JIYA
+21 - DDR WORLD/Odoru Fever Robo Eu-Robot mix
+21 - DDR WORLD/Ongaku (STARDOM Remix)
+21 - DDR WORLD/Pochiko no shiawasena nichijou
+21 - DDR WORLD/Proof of the existence
+21 - DDR WORLD/quaver
+21 - DDR WORLD/QuoN
+21 - DDR WORLD/Red. by Full Metal Jacket
+21 - DDR WORLD/Remember remember
+21 - DDR WORLD/Roll the Dice
+21 - DDR WORLD/Roman
+21 - DDR WORLD/Ryoushi no umi no Lindwurm (STARDOM Remix)
+21 - DDR WORLD/Sahara
+21 - DDR WORLD/Saiph
+21 - DDR WORLD/Sakazuki
+21 - DDR WORLD/Setsujou danka
+21 - DDR WORLD/Shamshir no mai
+21 - DDR WORLD/Shoujo, matenrou e
+21 - DDR WORLD/So What
+21 - DDR WORLD/Stand Alone Beat Masta
+21 - DDR WORLD/Suisou no kujira
+21 - DDR WORLD/Tenkyuu no mai
+21 - DDR WORLD/THE SAFARI (STARDOM Remix)
+21 - DDR WORLD/Timepiece phase II
+21 - DDR WORLD/Touch My Body
+21 - DDR WORLD/Tsumi to batsu
+21 - DDR WORLD/TYCOON
+21 - DDR WORLD/Wafuu in the youfuu
+21 - DDR WORLD/Zettaireido
+
+// DDR WORLD - BEMANI PRO LEAGUE -SEASON 4-
+21 - DDR WORLD/blue anthem
+21 - DDR WORLD/ESPRIT ONE
+21 - DDR WORLD/Get Into The Groove feat.WaMi
+21 - DDR WORLD/Meteora -meteor-
+21 - DDR WORLD/Mighty Beat Monsterz
+21 - DDR WORLD/Steps for Victory
+21 - DDR WORLD/THUNDERSTRIKE
+21 - DDR WORLD/Wizards!
+
+// DDR WORLD - BEMANI PRO LEAGUE -SEASON 5-
+21 - DDR WORLD/Astra Blaze
+21 - DDR WORLD/COLOR BURST
+21 - DDR WORLD/GO!
+21 - DDR WORLD/HORIZON BEATZ
+21 - DDR WORLD/King of Tribe
+21 - DDR WORLD/Meteor Shower
+21 - DDR WORLD/RIZING-GAMERS
+21 - DDR WORLD/SILKY BRAVE
+21 - DDR WORLD/Superior MAXXX
+
+// DDR WORLD - BEMANI PRO LEAGUE Triple Tribe
+21 - DDR WORLD/Bye or not
+21 - DDR WORLD/COSMIC V3LOCITY
+21 - DDR WORLD/Daisycutter
+21 - DDR WORLD/EYE OF THE HEAVEN
+21 - DDR WORLD/fixer
+21 - DDR WORLD/Hi-tech Tokio
+21 - DDR WORLD/Konran shoujo Soflan-chan!!
+21 - DDR WORLD/LubedeR
+21 - DDR WORLD/RUINA
+21 - DDR WORLD/SCREW owo SCREW
+21 - DDR WORLD/Shippuujinrai
+21 - DDR WORLD/STOIC HYPOTHESIS
+21 - DDR WORLD/Tabibito Rerun
+21 - DDR WORLD/tricky trick
+21 - DDR WORLD/V!LLA!N
+21 - DDR WORLD/ZENDEGI DANCE
+
+// DDR WORLD - BEMANI×Touhou Project ~Gensokyo Music Festival 2024~
+21 - DDR WORLD/Danmaku shinkou
+21 - DDR WORLD/Heisokuteki flation
+21 - DDR WORLD/SUPER HEROINE!!
+21 - DDR WORLD/Tsuki ni murakumo hana ni kaze
+21 - DDR WORLD/Zanzou ni tsunagareta tsuioku no HIDEAWAY
+
+// DDR WORLD - BEMANI noryosai 2026
+21 - DDR WORLD/Amabie
+21 - DDR WORLD/Any%
+21 - DDR WORLD/Bloody Iron Maiden
+21 - DDR WORLD/Danzai no mimesis
+21 - DDR WORLD/Rin ga naku
+21 - DDR WORLD/Smintheus
+
+// DDR WORLD - CS crossovers
+21 - DDR WORLD/BREAK DOWN! (World Version)
+21 - DDR WORLD/El ritmo te controla
+21 - DDR WORLD/Moving On
+21 - DDR WORLD/No Matter What
+
+// DDR WORLD - DDR STOMP crossover
+21 - DDR WORLD/PARANOiA STOMP, STOMP, STOMP
+
+// DDR WORLD - MYSTICAL ReUNION
+21 - DDR WORLD/Bloody Concerto
+21 - DDR WORLD/Lichtsaule
+21 - DDR WORLD/OROCHI STRIKE
+21 - DDR WORLD/REINCARNATION
+21 - DDR WORLD/ReRHYZE
+
+// DDR WORLD - pop'n & DDR Cheers × Cheers!!
+21 - DDR WORLD/BILLION MONEY BAZOOKA
+21 - DDR WORLD/Boku no kimochi wo egaku
+21 - DDR WORLD/Fragarach
+
+// DDR A3 - BEMANI 2021 manatsu no utagassen 5-ban shoubu
+20 - DDR A3/Chucchu Machu Picchu
+20 - DDR A3/DUAL STRIKER
+20 - DDR A3/MA-TSU-RI
+20 - DDR A3/Murasakibana
+20 - DDR A3/Renaikansoku -2021 manatsu no ending ver.-
+
+// DDR A3 - BEMANI crossovers
+20 - DDR A3/Acid,Tribal & Dance (DDR EDITION)
+20 - DDR A3/Adrenaline
+20 - DDR A3/ALBIDA
+20 - DDR A3/Black Emperor
+20 - DDR A3/BONE BORN
+20 - DDR A3/Broken
+20 - DDR A3/chaplet
+20 - DDR A3/Colorful minutes
+20 - DDR A3/Concertino in Blue
+20 - DDR A3/concon
+20 - DDR A3/Crystarium
+20 - DDR A3/Debug Dance
+20 - DDR A3/Easy Peasy
+20 - DDR A3/EMOTiON TRiPPER
+20 - DDR A3/Flip Flap
+20 - DDR A3/GERBERA
+20 - DDR A3/glacia
+20 - DDR A3/GLITTER
+20 - DDR A3/Glitter Flatter Scatter
+20 - DDR A3/Go Down
+20 - DDR A3/insist
+20 - DDR A3/Let's DANCE aROUND!!
+20 - DDR A3/Lilieze to enryuu Laevateinn
+20 - DDR A3/MANA
+20 - DDR A3/Megalara Garuda
+20 - DDR A3/melody H4CKER
+20 - DDR A3/Mentanpindoradora
+20 - DDR A3/Nanahoshi
+20 - DDR A3/Next FUTURE
+20 - DDR A3/ON-DO
+20 - DDR A3/perditus paradisus
+20 - DDR A3/Phlox
+20 - DDR A3/Playing With Fire
+20 - DDR A3/Prettiful!
+20 - DDR A3/Ryoushi no umi no Lindwurm
+20 - DDR A3/Sayonara heaven
+20 - DDR A3/spring pony
+20 - DDR A3/Tokonyatsu tropical
+20 - DDR A3/Too Late Snow
+20 - DDR A3/Towards The Horizon
+20 - DDR A3/Urban Life
+20 - DDR A3/Vajra
+20 - DDR A3/Valanga
+20 - DDR A3/VALLIS-NERIA
+20 - DDR A3/Wakusei lollipop
+20 - DDR A3/Wowie Zowie!
+20 - DDR A3/Wuv U
+20 - DDR A3/Yasaimashi ninniku abura oome
+20 - DDR A3/You You You
+20 - DDR A3/Youhishi no ue no ginga
+
+// DDR A3 - BEMANI PRO LEAGUE -SEASON 2-
+20 - DDR A3/Abrupt Madness
+20 - DDR A3/Aria
+20 - DDR A3/BREAKING THE FUTURE
+20 - DDR A3/Chromatic Burst
+20 - DDR A3/Complete Game Victory
+20 - DDR A3/Drive Away
+20 - DDR A3/GLOW THE CROWN
+20 - DDR A3/Rise As One
+20 - DDR A3/SMASH
+
+// DDR A3 - BEMANI PRO LEAGUE Triple Tribe
+20 - DDR A3/3y3s
+20 - DDR A3/Ambivalent Vermilia
+20 - DDR A3/C-C-C-N-N-N
+20 - DDR A3/Comet skater
+20 - DDR A3/DIABLOSIS Naga
+20 - DDR A3/suspicions
+
+// DDR A3 - CS crossovers
+20 - DDR A3/Be With You (Still Miss you)
+20 - DDR A3/CANDY (UFO mix)
+20 - DDR A3/Closer to my Heart (jun remix)
+20 - DDR A3/Curry Up
+20 - DDR A3/DOUBLE TORNARD
+20 - DDR A3/Heavens and the Earth
+20 - DDR A3/Hold Tight
+20 - DDR A3/I WANT YOUR LOVE (Darwin remix)
+20 - DDR A3/JUST BELIEVE
+20 - DDR A3/Kyoka suigetsurou (DDR EDITION)
+20 - DDR A3/little steps
+20 - DDR A3/LOVE SHINE (Body Grooverz 2006 mix)
+20 - DDR A3/Mess With My Emotions
+20 - DDR A3/On the Night of a Still Wind
+20 - DDR A3/Open Your Eyes
+20 - DDR A3/PARADISE
+20 - DDR A3/Racing with Time (NAOKI's 999 remix)
+20 - DDR A3/SAY A PRAYER
+20 - DDR A3/Settin' the Scene
+20 - DDR A3/STAY (Joey Riot remix)
+20 - DDR A3/Such A Feeling
+20 - DDR A3/Surrender (PureFocus remix)
+20 - DDR A3/Take Me
+20 - DDR A3/the beat
+20 - DDR A3/TRUE LOVE (Clubstar's True Club Mix)
+20 - DDR A3/Unity
+20 - DDR A3/We Will Live Together
+
+// DDR A3 - Ichika no gochamaze Mix UP! (いちかのごちゃまぜMix UP！)
+20 - DDR A3/[ ]DENTITY
+20 - DDR A3/BREDLI
+20 - DDR A3/Dance With The Dead
+20 - DDR A3/Indigo Nocturne
+20 - DDR A3/Kilonova
+20 - DDR A3/Kiyarora eisei no kiseki
+20 - DDR A3/Metamorphic
+20 - DDR A3/Rinne no karasu
+20 - DDR A3/SHIN HEBI HIME
+20 - DDR A3/VOLAQUAS
+20 - DDR A3/White Stream
+
+// DDR A20 PLUS - BEMANI 2021 manatsu no utagassen 5-ban shoubu
+18 - DDR A20 PLUS/Aftermath
+18 - DDR A20 PLUS/Globe Glitter
+18 - DDR A20 PLUS/Itetsu no pride
+18 - DDR A20 PLUS/LIKE A VAMPIRE
+18 - DDR A20 PLUS/MOVE! (We Keep It Movin')
+18 - DDR A20 PLUS/Super sentou Babanburn
+18 - DDR A20 PLUS/Triple Cross
+18 - DDR A20 PLUS/Yumebuki
+
+// DDR A20 PLUS - BEMANI crossovers
+18 - DDR A20 PLUS/AI
+18 - DDR A20 PLUS/BITTER CHOCOLATE STRIKER
+18 - DDR A20 PLUS/BRIDAL FESTIVAL !!!
+18 - DDR A20 PLUS/City Never Sleeps
+18 - DDR A20 PLUS/DANCERUSH STARDOM ANTHEM
+18 - DDR A20 PLUS/DEADLOCK -Out Of Reach-
+18 - DDR A20 PLUS/Evans
+18 - DDR A20 PLUS/GHOST KINGDOM
+18 - DDR A20 PLUS/Hella Deep
+18 - DDR A20 PLUS/Hoshi no tsukurikata
+18 - DDR A20 PLUS/If
+18 - DDR A20 PLUS/jet coaster girl
+18 - DDR A20 PLUS/Jucunda Memoria
+18 - DDR A20 PLUS/Kanata no Reflesia
+18 - DDR A20 PLUS/Kyouhan heaven's code
+18 - DDR A20 PLUS/Midnight Amaretto
+18 - DDR A20 PLUS/Monochrome moment
+18 - DDR A20 PLUS/Never See You Again
+18 - DDR A20 PLUS/Papipopepipupepa
+18 - DDR A20 PLUS/Riot of Color
+18 - DDR A20 PLUS/SCHWARZSCHILD FIELD
+18 - DDR A20 PLUS/Shakunetsu Pt.2 Long Train Running
+18 - DDR A20 PLUS/Sweet Clock
+18 - DDR A20 PLUS/take me higher
+18 - DDR A20 PLUS/Tokyo shinwa
+18 - DDR A20 PLUS/Twinkle Wonderland
+18 - DDR A20 PLUS/Uh-Oh
+18 - DDR A20 PLUS/Umeyukiyo
+18 - DDR A20 PLUS/Watashi wo disco ni tsuretette TOKYO
+18 - DDR A20 PLUS/We're so Happy
+
+// DDR A20 PLUS - BEMANI MusiQ FES
+18 - DDR A20 PLUS/CONNECT-
+18 - DDR A20 PLUS/X-ray binary
+
+// DDR A20 PLUS - Busou Shinki BC×BEMANI kadou kinen campaign
+18 - DDR A20 PLUS/Koko kara yoroshiku daisakusen 143
+
+// DDR A20 PLUS - CS crossovers
+18 - DDR A20 PLUS/1998 (Sparky 2006)
+18 - DDR A20 PLUS/B4U (The Acolyte mix)
+18 - DDR A20 PLUS/I'm Flying Away
+18 - DDR A20 PLUS/We Can Win The Fight
+
+// DDR A20 PLUS - Maishuu! Ichika no chou BEMANI rush 2020
+18 - DDR A20 PLUS/Ao ga kieru toki
+18 - DDR A20 PLUS/HARD BRAIN
+18 - DDR A20 PLUS/Jetcoaster Windy
+18 - DDR A20 PLUS/Kyousui ichika
+18 - DDR A20 PLUS/Last Twilight
+18 - DDR A20 PLUS/Norepinephrine
+18 - DDR A20 PLUS/Our Love
+18 - DDR A20 PLUS/PANIC HOLIC
+18 - DDR A20 PLUS/Sparkle Smilin'
+
+// DDR A20 - BEMANI crossover
+17 - DDR A20/Crazy Shuffle
+17 - DDR A20/Dokidoki Valentine
+17 - DDR A20/DOWNER & UPPER
+17 - DDR A20/Hunny Bunny
+17 - DDR A20/I Love You
+17 - DDR A20/Mikansei no jouki kudou otome (DDR Edition)
+17 - DDR A20/Mirai (da) FUTURE
+17 - DDR A20/Re-GENERATION
+17 - DDR A20/Small Steps
+17 - DDR A20/SWEET HOME PARTY
+17 - DDR A20/Une mage blanche
+
+// DDR A20 - FLOOR INFECTION
+17 - DDR A20/Firestorm
+17 - DDR A20/Lachryma (Re-Queen'M)
+17 - DDR A20/OVERSOUL
+
+// DDR A20 - Ichika no BEMANI chou janken taikai 2020
+17 - DDR A20/Bi
+17 - DDR A20/Hoshikuzu no yo hate
+17 - DDR A20/Love kira splash
+17 - DDR A20/Silly Love
+
+// DDR A20 = Ichika no BEMANI touhyou senbatsusen 2019
+17 - DDR A20/Afterimage d'automne
+17 - DDR A20/BLACK JACKAL
+17 - DDR A20/Midnight WAR
+17 - DDR A20/Oh my! lovely! sweety! darling!
+17 - DDR A20/Saishou sanbai kanzensuu
+17 - DDR A20/Six String Proof
+17 - DDR A20/toy boxer
+17 - DDR A20/Trill auf G
+17 - DDR A20/voltississimo
+
+//DDR A - BEMANI crossovers
+16 - DDR A/ALL MY HEART -kono koi ni, watashi no subete wo kakeru-
+16 - DDR A/bass 2 bass
+16 - DDR A/Bassdrop freaks
+16 - DDR A/Boss Rush
+16 - DDR A/CHOCOLATE PHILOSOPHY
+16 - DDR A/Cytokinesis
+16 - DDR A/Dadadadadadadadadada
+16 - DDR A/DANCE ALL NIGHT (DDR EDITION)
+16 - DDR A/DDR MEGAMIX
+16 - DDR A/Far east nightbird
+16 - DDR A/Fly far bounce
+16 - DDR A/Ha-lle-lu-jah
+16 - DDR A/Happy koi lovely time!!
+16 - DDR A/High School Love
+16 - DDR A/Illegal Function Call
+16 - DDR A/Koisuru uchuu sensou!!
+16 - DDR A/Kono aozora no shita de
+16 - DDR A/Love Shine wonderful mix
+16 - DDR A/Oboro
+16 - DDR A/Poochie
+16 - DDR A/Renaikansoku
+16 - DDR A/S!ck
+16 - DDR A/Sakura Reflection
+16 - DDR A/Schrodinger no neko
+16 - DDR A/SHION
+16 - DDR A/Shunpuu blowing wind
+16 - DDR A/Special One
+16 - DDR A/Star Trail
+16 - DDR A/STERLING SILVER
+16 - DDR A/Towards The TOWER
+
+// DDR A - BEMANI SUMMER GREETINGS
+16 - DDR A/Fuurin hanabi
+16 - DDR A/Life is beautiful
+16 - DDR A/Prey
+16 - DDR A/Puberty Dysthymia
+16 - DDR A/Rejoin
+16 - DDR A/Seiza ga koishita shunkan wo
+16 - DDR A/SUPER SUMMER SALE
+
+// DDR A - NEW Generation 夏の流星フェスタ2016
+16 - DDR A/Angelic Jelly
+16 - DDR A/Grand Chariot
+16 - DDR A/Sephirot
+16 - DDR A/StrayedCatz
+16 - DDR A/Triple Counter
+16 - DDR A/ZEPHYRANTHES
+
+// DEFAULTS
 @dj taka
 @taka
 @dj yoshitaka
@@ -337,106 +818,352 @@
 ---HINABITA & BANMESHI
 //ひなビタ♪&バンめし♪曲
 // DDR WORLD - HinaBitter♪ (ひなビタ♪)
-@Catharsis no tsuki
-@Ima koko! Kono shunkan
-@Kareinaru! Otogi tantei HinaBitter
-@Murasaki guruma
-@Nante super
-@Nazotoki queen!
-@Recipe no riddle
-@Romancing escape
-@Specter chaser
-@Tick-tack2 tick2 pa
+21 - DDR WORLD/Catharsis no tsuki
+21 - DDR WORLD/Ima koko! Kono shunkan
+21 - DDR WORLD/Kareinaru! Otogi tantei HinaBitter
+21 - DDR WORLD/Murasaki guruma
+21 - DDR WORLD/Nante super
+21 - DDR WORLD/Nazotoki queen!
+21 - DDR WORLD/Recipe no riddle
+21 - DDR WORLD/Romancing escape
+21 - DDR WORLD/Specter chaser
+21 - DDR WORLD/Tick-tack2 tick2 pa
 
 // DDR A3 - HinaBitter♪ (ひなビタ♪)
-@Chikuwa parfait da yo CKP (Yvya Remix)
-@Confeito concerto
-@Finally Dive
-@Hashire melonpan
-@Meumeupettantan!! (ZAQUVA Remix)
-@Nanairo light
-@Polaris no uta
-@Senkyakubanrai moumantai!
-@Tokai seifuku Girls
+20 - DDR A3/Chikuwa parfait da yo CKP (Yvya Remix)
+20 - DDR A3/Confeito concerto
+20 - DDR A3/Finally Dive
+20 - DDR A3/Hashire melonpan
+20 - DDR A3/Meumeupettantan!! (ZAQUVA Remix)
+20 - DDR A3/Nanairo light
+20 - DDR A3/Polaris no uta
+20 - DDR A3/Senkyakubanrai moumantai!
+20 - DDR A3/Tokai seifuku Girls
 
 // DDR A20 PLUS - BandMeshi♪ (バンめし♪)
-@Alice side castling
-@Hana wa oritashi kozue wa takashi
-@Hangyaku no disparate
-@Innocent bible
-@Khorosho! Onigiri circus dan
-@Otogibanashi ni makugire wo
-@Red Cape Theorem
-@ROOM
-@Sakasama Cinderella parade
-@Shijou no laturia
-@Tsuioku no aria
-@Usotsuki yokochou wa amemoyou
+18 - DDR A20 PLUS/Alice side castling
+18 - DDR A20 PLUS/Hana wa oritashi kozue wa takashi
+18 - DDR A20 PLUS/Hangyaku no disparate
+18 - DDR A20 PLUS/Innocent bible
+18 - DDR A20 PLUS/Khorosho! Onigiri circus dan
+18 - DDR A20 PLUS/Otogibanashi ni makugire wo
+18 - DDR A20 PLUS/Red Cape Theorem
+18 - DDR A20 PLUS/ROOM
+18 - DDR A20 PLUS/Sakasama Cinderella parade
+18 - DDR A20 PLUS/Shijou no laturia
+18 - DDR A20 PLUS/Tsuioku no aria
+18 - DDR A20 PLUS/Usotsuki yokochou wa amemoyou
 
 // DDR A20 - HinaBitter♪ (ひなビタ♪)
-@Baby step
-@Haunted maid lunch
-@Hikari eureka
-@Kakumei passionate
-@Netsujou no zapadeado
-@Sweets wa tomaranai
+17 - DDR A20/Baby step
+17 - DDR A20/Haunted maid lunch
+17 - DDR A20/Hikari eureka
+17 - DDR A20/Kakumei passionate
+17 - DDR A20/Netsujou no zapadeado
+17 - DDR A20/Sweets wa tomaranai
 
 // DDR A - HinaBitter♪ (ひなビタ♪)
-@Exciting!! Mo-cha-cha
-@Kuranogawa ondo
-@Kurokami midareshi shura to narite ~Rin edition~
-@Luminous days
-@Mahou no tamago ~Cocona ELECTRO POP edition~
-@Ronron e rairairai!
-@Sayonara trip ~Natsuhi EDM edition~
+16 - DDR A/Exciting!! Mo-cha-cha
+16 - DDR A/Kuranogawa ondo
+16 - DDR A/Kurokami midareshi shura to narite ~Rin edition~
+16 - DDR A/Luminous days
+16 - DDR A/Mahou no tamago ~Cocona ELECTRO POP edition~
+16 - DDR A/Ronron e rairairai!
+16 - DDR A/Sayonara trip ~Natsuhi EDM edition~
 
 ---CREATOR AUDITION
 //DDR WORLDの楽曲クリエイターオーディション
-@Ai-shi AI sare
-@Arcadia
-@Autosummer
-@Bad youth awake
-@BUCHiAGE matsuri DANCE
-@Burstix Comet
-@Can't Stop Running!!
-@Collapse of the Sanctuary
-@Dance and Death
-@Dance wiz the Rhythm
-@DanRevoAthlon
-@Decryption
-@DENGENKEN
-@Dense Flyer
-@Don't Stop The HYPERCORE
-@Dozen Flower
-@eyesight
-@First Action
-@Fizzing Steps
-@fluctus
-@Footnotes on BPM
-@Funky Flux Fusion
-@Gravity Collapse
-@Hajimari no eyes ft. Rintaru
-@Hakujitsu to gengetsu
-@Harukaze restart!
-@Heavy Rain
-@HYPER OVERR DANCEFLOORRR
-@HyperNOAH
-@I'll Be With You
-@Kyokuchi daishougeki
-@Make Mi Make Mi
-@MonstaFesta
-@MYSTIC CUBE
-@New Nostalgy
-@No More Love
-@Odyssey
-@Ohisashi chuukagai!
-@Origin Pulsation
-@Robot Footwork
-@Roche Limit
-@Shiawase no mahou wa tokenai
-@Sweetin' Fruity
-@The 88's Instigation
-@The Ashes of Boreas
-@Tomoshibi
-@TURNING DOWN
-@WONDER COASTER
+21 - DDR WORLD/Ai-shi AI sare
+21 - DDR WORLD/Arcadia
+21 - DDR WORLD/Autosummer
+21 - DDR WORLD/Bad youth awake
+21 - DDR WORLD/BUCHiAGE matsuri DANCE
+21 - DDR WORLD/Burstix Comet
+21 - DDR WORLD/Can't Stop Running!!
+21 - DDR WORLD/Collapse of the Sanctuary
+21 - DDR WORLD/Dance and Death
+21 - DDR WORLD/Dance wiz the Rhythm
+21 - DDR WORLD/DanRevoAthlon
+21 - DDR WORLD/Decryption
+21 - DDR WORLD/DENGENKEN
+21 - DDR WORLD/Dense Flyer
+21 - DDR WORLD/Don't Stop The HYPERCORE
+21 - DDR WORLD/Dozen Flower
+21 - DDR WORLD/eyesight
+21 - DDR WORLD/First Action
+21 - DDR WORLD/Fizzing Steps
+21 - DDR WORLD/fluctus
+21 - DDR WORLD/Footnotes on BPM
+21 - DDR WORLD/Funky Flux Fusion
+21 - DDR WORLD/Gravity Collapse
+21 - DDR WORLD/Hajimari no eyes ft. Rintaru
+21 - DDR WORLD/Hakujitsu to gengetsu
+21 - DDR WORLD/Harukaze restart!
+21 - DDR WORLD/Heavy Rain
+21 - DDR WORLD/HYPER OVERR DANCEFLOORRR
+21 - DDR WORLD/HyperNOAH
+21 - DDR WORLD/I'll Be With You
+21 - DDR WORLD/Kyokuchi daishougeki
+21 - DDR WORLD/Make Mi Make Mi
+21 - DDR WORLD/MonstaFesta
+21 - DDR WORLD/MYSTIC CUBE
+21 - DDR WORLD/New Nostalgy
+21 - DDR WORLD/No More Love
+21 - DDR WORLD/Odyssey
+21 - DDR WORLD/Ohisashi chuukagai!
+21 - DDR WORLD/Origin Pulsation
+21 - DDR WORLD/Robot Footwork
+21 - DDR WORLD/Roche Limit
+21 - DDR WORLD/Shiawase no mahou wa tokenai
+21 - DDR WORLD/Sweetin' Fruity
+21 - DDR WORLD/The 88's Instigation
+21 - DDR WORLD/The Ashes of Boreas
+21 - DDR WORLD/Tomoshibi
+21 - DDR WORLD/TURNING DOWN
+21 - DDR WORLD/WONDER COASTER
+
+---VARIETY MUSIC
+// I'm place KONAMI songs here include EUROBEAT songs
+// DDR WORLD - KONAMI originals
+21 - DDR WORLD/8ISMUTH OVERDRIV3
+21 - DDR WORLD/access super [hyper] focus
+21 - DDR WORLD/Amazing Bomberman
+21 - DDR WORLD/Ashikamisama no fukkatsusai
+21 - DDR WORLD/Be Happy Next 2 You
+21 - DDR WORLD/Blizzard of Arrows
+21 - DDR WORLD/BRAIN-HEART
+21 - DDR WORLD/Dance With Me
+21 - DDR WORLD/Easy Peasy Squeezy
+21 - DDR WORLD/Florence
+21 - DDR WORLD/Ganymede -reborn-
+21 - DDR WORLD/Haku
+21 - DDR WORLD/Happy Dance Day 2 U
+21 - DDR WORLD/Hit Show Heroes
+21 - DDR WORLD/Hou (Five Flares Mix)
+21 - DDR WORLD/Is this dance a Hakken
+21 - DDR WORLD/Kirakira universe
+21 - DDR WORLD/Komainu Adventure!
+21 - DDR WORLD/Many mania--
+21 - DDR WORLD/Meikyuu no rondo
+21 - DDR WORLD/Meteor
+21 - DDR WORLD/miserable life and worthless thoughts
+21 - DDR WORLD/Monsters Den
+21 - DDR WORLD/Move On
+21 - DDR WORLD/New Millennium Pt.2
+21 - DDR WORLD/Niji no Sekai
+21 - DDR WORLD/Odore!! Virtual animal!!
+21 - DDR WORLD/Polka dot dance girl
+21 - DDR WORLD/S.O.D
+21 - DDR WORLD/Steps for Victory (U1 Heavy Metal Edition)
+21 - DDR WORLD/STOMP!!
+21 - DDR WORLD/Thunderstorm
+21 - DDR WORLD/Time to HYPERDRIVE
+21 - DDR WORLD/UNKNOWNZ
+
+// DDR A3 - KONAMI originals
+20 - DDR A3/9th Outburst
+20 - DDR A3/Ability
+20 - DDR A3/Anthurium
+20 - DDR A3/Are U Ready
+20 - DDR A3/Awakening Wings
+20 - DDR A3/Beluga
+20 - DDR A3/BLUE FOG, SILVER BULLET
+20 - DDR A3/Come Back to Me (Feel It)
+20 - DDR A3/Come To m1dy
+20 - DDR A3/Continue to the real world
+20 - DDR A3/Dance Phenomena
+20 - DDR A3/DDR System Songs+Replicant Mix
+20 - DDR A3/Deep tenDon Reflex
+20 - DDR A3/Drive My Heart
+20 - DDR A3/Electronic Sports Complex
+20 - DDR A3/Environ [De-SYNC] (feat. lythe)
+20 - DDR A3/Euphoric Fragmentation
+20 - DDR A3/Fleur
+20 - DDR A3/Get it
+20 - DDR A3/Get Your Wish
+20 - DDR A3/Go To The Oasis
+20 - DDR A3/Good Sound United
+20 - DDR A3/GROOVE 04
+20 - DDR A3/Hou
+20 - DDR A3/I-W-U (I Want U)
+20 - DDR A3/Jungle Dance
+20 - DDR A3/Last Summer
+20 - DDR A3/Let Me Know
+20 - DDR A3/Let Me Show You
+20 - DDR A3/Like A Star
+20 - DDR A3/Lose Your Sense
+20 - DDR A3/mathematical good-bye
+20 - DDR A3/memory DATAMOSHER
+20 - DDR A3/My Drama
+20 - DDR A3/Myu, myu, Mullru
+20 - DDR A3/New Millennium
+20 - DDR A3/Not Alone
+20 - DDR A3/Perfect eater
+20 - DDR A3/PERSIAN LAND
+20 - DDR A3/Pump Pump Pump
+20 - DDR A3/Qwerty
+20 - DDR A3/Rave in the Shell
+20 - DDR A3/ROCK THE PARTY
+20 - DDR A3/SAYONARA disco light
+20 - DDR A3/Sector
+20 - DDR A3/SISYPHUS
+20 - DDR A3/Snow Garland Fairy
+20 - DDR A3/Sparkle Dreams
+20 - DDR A3/STAY GOLD
+20 - DDR A3/stellar rain
+20 - DDR A3/Surface
+20 - DDR A3/SURVIVAL AT THE END OF THE UNIVERSE
+20 - DDR A3/TAKE ME HIGHER
+20 - DDR A3/Teleportation
+20 - DDR A3/THE ANCIENT KING IS BACK
+20 - DDR A3/Throw Out
+20 - DDR A3/Unreality
+20 - DDR A3/Wolf's Rain
+20 - DDR A3/Worst Plan
+
+// DDR A3 - KONAMI Code 35th Anniversary Songs
+20 - DDR A3/GRADIUS REMIX (UUDDLRLRBA Ver.)
+20 - DDR A3/Ue ue shita shita hidari migi hidari migi BA
+
+// DDR A20 PLUS - KONAMI originals
+18 - DDR A20 PLUS/actualization of self (weaponized)
+18 - DDR A20 PLUS/ANTI ANTHEM
+18 - DDR A20 PLUS/Bang Pad(Werk Mix)
+18 - DDR A20 PLUS/Better Than Me
+18 - DDR A20 PLUS/BLAKE
+18 - DDR A20 PLUS/Come Back To Me
+18 - DDR A20 PLUS/DDR TAGMIX -LAST DanceR-
+18 - DDR A20 PLUS/DeStRuCtIvE FoRcE
+18 - DDR A20 PLUS/DIGITALIZER
+18 - DDR A20 PLUS/Draw the Savage
+18 - DDR A20 PLUS/Going Hypersonic
+18 - DDR A20 PLUS/Good Looking
+18 - DDR A20 PLUS/High & Low
+18 - DDR A20 PLUS/Hyper Bomb
+18 - DDR A20 PLUS/HYPERDRIVE
+18 - DDR A20 PLUS/HyperTwist
+18 - DDR A20 PLUS/I Want To Do This Keep
+18 - DDR A20 PLUS/In the past
+18 - DDR A20 PLUS/Inner Spirit -GIGA HiTECH MIX-
+18 - DDR A20 PLUS/Last Card
+18 - DDR A20 PLUS/Lightspeed
+18 - DDR A20 PLUS/MUTEKI BUFFALO
+18 - DDR A20 PLUS/Next Phase
+18 - DDR A20 PLUS/No plan days
+18 - DDR A20 PLUS/ONYX
+18 - DDR A20 PLUS/paparazzi
+18 - DDR A20 PLUS/PARTY ALL NIGHT(DJ KEN-BOW MIX)
+18 - DDR A20 PLUS/Poppin' Soda
+18 - DDR A20 PLUS/Rave Accelerator
+18 - DDR A20 PLUS/Run The Show
+18 - DDR A20 PLUS/Sekai no hate ni yakusoku no gaika wo -DDR Extended Megamix-
+18 - DDR A20 PLUS/Shout It Out
+18 - DDR A20 PLUS/STEP MACHINE
+18 - DDR A20 PLUS/Step This Way
+18 - DDR A20 PLUS/Sword of Vengeance
+18 - DDR A20 PLUS/Taking It To The Sky (PLUS step)
+18 - DDR A20 PLUS/THIS IS MY LAST RESORT
+18 - DDR A20 PLUS/TYPHON
+18 - DDR A20 PLUS/Vertigo
+18 - DDR A20 PLUS/YU-MOU-MU-HI
+18 - DDR A20 PLUS/Yuni's Nocturnal Days
+
+// DDR A20 - KONAMI originals
+17 - DDR A20/Ace out
+17 - DDR A20/ALPACORE
+17 - DDR A20/Avenger
+17 - DDR A20/BLSTR
+17 - DDR A20/Bounce Trippy
+17 - DDR A20/CROSS
+17 - DDR A20/CyberConnect
+17 - DDR A20/Dead Heat
+17 - DDR A20/DIGITAL LUV
+17 - DDR A20/District of the Shadows
+17 - DDR A20/Drop The Bounce
+17 - DDR A20/ENDLESS
+17 - DDR A20/F4SH10N
+17 - DDR A20/Get On Da Floor
+17 - DDR A20/Give Me
+17 - DDR A20/Glitch Angel
+17 - DDR A20/Golden Arrow
+17 - DDR A20/Helios
+17 - DDR A20/IRON HEART
+17 - DDR A20/LEVEL UP
+17 - DDR A20/Mythomane
+17 - DDR A20/Neverland
+17 - DDR A20/New Era
+17 - DDR A20/ORCA
+17 - DDR A20/Our Soul
+17 - DDR A20/Procyon
+17 - DDR A20/Rampage Hero
+17 - DDR A20/Ranker killer girl
+17 - DDR A20/Right Time Right Way
+17 - DDR A20/Seta Para Cima
+17 - DDR A20/Skywalking
+17 - DDR A20/SODA GALAXY
+17 - DDR A20/Splash Gold
+17 - DDR A20/Starlight in the Snow
+17 - DDR A20/Starry Sky
+17 - DDR A20/Stay 4 Ever
+17 - DDR A20/The History of the Future
+17 - DDR A20/The World Ends Now
+17 - DDR A20/This Beat Is
+17 - DDR A20/Toy Box Factory
+17 - DDR A20/Waiting
+
+//DDR A20 - KONAMI 50th Memorial Songs
+17 - DDR A20/50th Memorial Songs -Beginning Story-
+17 - DDR A20/50th Memorial Songs -Flagship medley-
+17 - DDR A20/50th Memorial Songs -futari no toki ~under the cherry blossoms~-
+17 - DDR A20/50th Memorial Songs -The BEMANI History-
+
+//DDR A20 - Legend License Remixes-Covers
+17 - DDR A20/BUTTERFLY (20th Anniversary Mix)
+17 - DDR A20/CARTOON HEROES (20th Anniversary Mix)
+17 - DDR A20/HAVE YOU NEVER BEEN MELLOW (20th Anniversary Mix)
+17 - DDR A20/LONG TRAIN RUNNIN' (20th Anniversary Mix)
+17 - DDR A20/SKY HIGH (20th Anniversary Mix)
+
+// DDR A - KONAMI originals
+16 - DDR A/ACE FOR ACES
+16 - DDR A/ALGORITHM
+16 - DDR A/ANNIVERSARY
+16 - DDR A/Astrogazer
+16 - DDR A/Be a Hero!
+16 - DDR A/Catch Our Fire!
+16 - DDR A/CHAOS Terror-Tech Mix
+16 - DDR A/Chronos (walk with you remix)
+16 - DDR A/Come to Life
+16 - DDR A/Cosy Catastrophe
+16 - DDR A/Dancer in the flare
+16 - DDR A/Electric Dance System Music
+16 - DDR A/Emera
+16 - DDR A/ENDYMION
+16 - DDR A/Eternal Summer
+16 - DDR A/Far east nightbird kors k Remix -DDR edit ver-
+16 - DDR A/First Time
+16 - DDR A/HANDS UP IN THE AIR
+16 - DDR A/Hopeful
+16 - DDR A/IN BETWEEN
+16 - DDR A/Ishtar
+16 - DDR A/Juuniseiza no seiiki
+16 - DDR A/Kyun kyun bakkyun LOVE
+16 - DDR A/Love You More
+16 - DDR A/MAX 360
+16 - DDR A/Neutrino
+16 - DDR A/New Century
+16 - DDR A/Oboro (dj TAKA Remix)
+16 - DDR A/OurMemories
+16 - DDR A/out of focus
+16 - DDR A/POSSESSION (20th Anniversary Mix)
+16 - DDR A/Pursuer
+16 - DDR A/Reach The Sky, Without you
+16 - DDR A/RISING FIRE HAWK
+16 - DDR A/Show me your moves
+16 - DDR A/siberite
+16 - DDR A/Sora e no katamichi kippu
+16 - DDR A/Start a New Day
+16 - DDR A/STERLING SILVER (U1 overground mix)
+16 - DDR A/TECH-NOID
+16 - DDR A/Vanquish The Ghost
+16 - DDR A/Yeah! Yeah!
