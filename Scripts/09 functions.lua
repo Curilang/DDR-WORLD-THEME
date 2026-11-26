@@ -2179,6 +2179,22 @@ local overrides = {
 				},
 			},
 		},
+		["Dear Deer"] = {
+			charts = {
+				Difficulty_Medium = {
+					min = 92,
+					max = 185,
+				},
+				Difficulty_Hard = {
+					min = 92,
+					max = 185,
+				},
+				Difficulty_Challenge = {
+					min = 92,
+					max = 185,
+				},
+			},
+		},
 		["fixer"] = {
 			min = 90,
 			max = 215,

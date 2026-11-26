@@ -44,6 +44,57 @@
 21 - DDR WORLD/Tick-tack2 tick2 pa
 21 - DDR WORLD/Recipe no riddle
 
+---BEMANI SELECTION
+
+21 - DDR WORLD/Beyond The Earth
+21 - DDR WORLD/Red. by Full Metal Jacket
+21 - DDR WORLD/TYCOON
+21 - DDR WORLD/Setsujou danka
+21 - DDR WORLD/Tsumi to batsu
+21 - DDR WORLD/DIAVOLO
+21 - DDR WORLD/Fly Like You
+21 - DDR WORLD/quaver
+21 - DDR WORLD/Kagachi
+21 - DDR WORLD/Sakazuki
+
+21 - DDR WORLD/Bad Maniacs
+21 - DDR WORLD/Chocolate Planet
+21 - DDR WORLD/Four Leaves
+21 - DDR WORLD/Ganymede -reborn-
+21 - DDR WORLD/Timepiece phase II
+21 - DDR WORLD/Koiuta shippuu! Karuta queen Iroha
+21 - DDR WORLD/Douwa kairou
+21 - DDR WORLD/Remember remember
+
+21 - DDR WORLD/BIG som tam
+21 - DDR WORLD/CUE CUE RESCUE
+21 - DDR WORLD/O JIYA
+21 - DDR WORLD/Aka to ao no rampage
+21 - DDR WORLD/Gekkou ranbu
+21 - DDR WORLD/Shamshir no mai
+21 - DDR WORLD/Suisou no kujira
+21 - DDR WORLD/Mikazuki connect
+
+21 - DDR WORLD/HAPPY PARADISE GALAXY
+21 - DDR WORLD/Harmonia
+21 - DDR WORLD/QuoN
+21 - DDR WORLD/Touch My Body
+21 - DDR WORLD/Aki nation
+21 - DDR WORLD/7 Colors
+21 - DDR WORLD/Tenkyuu no mai
+21 - DDR WORLD/Wafuu in the youfuu
+
+21 - DDR WORLD/Sulk
+21 - DDR WORLD/Midnight City Warfare
+21 - DDR WORLD/Butterfly Twist
+21 - DDR WORLD/Paradission
+21 - DDR WORLD/Lo-Fi-M
+21 - DDR WORLD/Black or Red
+21 - DDR WORLD/Dear Deer
+21 - DDR WORLD/CARNIVOROUS
+21 - DDR WORLD/Damage Per Second
+21 - DDR WORLD/JOK3R
+
 ---GALAXY BRAVE
 
 21 - DDR WORLD/Meteor
