@@ -210,11 +210,10 @@ local GENRES = {
 	{ id = "VIRTUAL", label = "VIRTUAL POP", folder = "VIRTUAL", words = { "virtual pop" } },
 	{ id = "ANIME", label = "ANIME & GAME", folder = "ANIME", words = { "anime & game", "anime and game" } },
 	{ id = "TOUHOU", label = "TOUHOU", folder = "TOUHOU", words = { "touhou" } },
-	{ id = "VARIETY", label = "VARIETY", words = { "variety" } },
+	{ id = "VARIETY", label = "VARIETY", folder = "VARIETY", words = { "variety" } },
 	{ id = "HINABITA", label = Utf8(0x3072, 0x306A, 0x30D3, 0x30BF, 0x266A, 0x20, 0x26, 0x20, 0x30D0, 0x30F3, 0x3081, 0x3057, 0x266A), jp = true,
-		words = { Utf8(0x3072, 0x306A, 0x30D3, 0x30BF), Utf8(0x30D0, 0x30F3, 0x3081, 0x3057), "hinabita" }, anywhere = true,
-		summary = "HINABITA" },
-	{ id = "AUDITION", label = "AUDITION", words = { "audition" } },
+		folder = "HINABITA", words = { Utf8(0x3072, 0x306A, 0x30D3, 0x30BF), Utf8(0x30D0, 0x30F3, 0x3081, 0x3057), "hinabita" }, anywhere = true,},
+	{ id = "AUDITION", label = "AUDITION", folder = "AUDITION", words = { "audition" } },
 }
 
 -- (as in the original): TARGET = charts that are not among the ones that count for the flare skill yet, NON-TARGET = the
@@ -485,7 +484,8 @@ end
 -- "Group/Folder" (one song). Returns { [folder id] = { words = {pattern...}, songs = { [song key] = true } } }.
 local FOLDER_HEADINGS = {
 	["POP MUSIC"] = "POP", ["VIRTUAL POP"] = "VIRTUAL", ["ANIME & GAME"] = "ANIME", ["ANIME AND GAME"] = "ANIME",
-	["TOUHOU"] = "TOUHOU", ["TOUHOU PROJECT"] = "TOUHOU", ["FOR MUSIC GAMERS"] = "GAMERS",
+	["TOUHOU"] = "TOUHOU", ["TOUHOU PROJECT"] = "TOUHOU", ["FOR MUSIC GAMERS"] = "GAMERS", ["HINABITA & BANMESHI"] = "HINABITA", ["CREATOR AUDITION"] = "AUDITION",
+	["VARIETY MUSIC"] = "VARIETY",
 }
 
 -- a pattern that finds the word as a whole word (so "tag" does not match "stage")
